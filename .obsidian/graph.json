@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": " ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Terminology",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.43295654528225,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.345742520644375,
+  "repelStrength": 20,
+  "linkStrength": 0.215784486259645,
+  "linkDistance": 488,
+  "scale": 0.7478536472112782,
+  "close": false
+}

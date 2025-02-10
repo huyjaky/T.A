@@ -1,0 +1,100 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Convolution layer",
+      "path": "Terminology/Convolution layer.md"
+    },
+    {
+      "basename": "How to train CNNs_v3",
+      "path": "AIO notebook/How to train CNNs/How to train CNNs_v3.pdf"
+    },
+    {
+      "basename": "From MLP to CNN_v6",
+      "path": "AIO notebook/From MLP to CNN/From MLP to CNN_v6.pdf"
+    },
+    {
+      "basename": "[Description]-CNN-Applications",
+      "path": "AIO homework/Code/CNN/[Description]-CNN-Applications.pdf"
+    },
+    {
+      "basename": "Airflow_v3",
+      "path": "AIO notebook/AirFlow for Scheduling/Airflow_v3.pdf"
+    },
+    {
+      "basename": "CNN (convolution neural network)",
+      "path": "base-knowledge/Advance knowledge/CNN/CNN (convolution neural network).md"
+    },
+    {
+      "basename": "From Optimization to Linear Regression _ v3",
+      "path": "AIO notebook/From Optimization to Linear Regression/From Optimization to Linear Regression _ v3.pdf"
+    },
+    {
+      "basename": "MLP (multi-layer perceptron",
+      "path": "base-knowledge/Advance knowledge/CNN/MLP (multi-layer perceptron.md"
+    },
+    {
+      "basename": "Multilayer-perceptron",
+      "path": "Terminology/Multilayer-perceptron.md"
+    },
+    {
+      "basename": "Drawing 2024-11-05 13.57.30.excalidraw",
+      "path": "TrashNote/Drawing 2024-11-05 13.57.30.excalidraw.md"
+    },
+    {
+      "basename": "Multiple regression",
+      "path": "Terminology/Multiple regression.md"
+    },
+    {
+      "basename": "Insight into MLP_v4",
+      "path": "AIO notebook/Insight MLP(multi-layer perceptron)/Insight into MLP_v4.pdf"
+    },
+    {
+      "basename": "Thư viện vẽ đồ thị",
+      "path": "base-knowledge/Thư viện vẽ đồ thị.md"
+    },
+    {
+      "basename": "What diff between our famous loss function",
+      "path": "base-knowledge/What diff between our famous loss function.md"
+    },
+    {
+      "basename": "Regression_Loss_v2",
+      "path": "AIO notebook/Loss Functions for Regression/Regression_Loss_v2.pdf"
+    },
+    {
+      "basename": "Searching in KNN",
+      "path": "base-knowledge/Advance knowledge/KNN - K-means/Searching in KNN.md"
+    },
+    {
+      "basename": "Feature map",
+      "path": "Terminology/Feature map.md"
+    },
+    {
+      "basename": "Kernel",
+      "path": "Terminology/Kernel.md"
+    },
+    {
+      "basename": "Slide-Project_Vanishing_Gradient_v4",
+      "path": "AIO notebook/Architecture Project Gradient Vanishing in MLP/Slide-Project_Vanishing_Gradient_v4.pdf"
+    },
+    {
+      "basename": "Light Controlling Using Hand Gestures",
+      "path": "AIO homework/Project/Light Controlling Using Hand Gestures/Light Controlling Using Hand Gestures.pdf"
+    },
+    {
+      "basename": "Exploding gradient",
+      "path": "Terminology/Exploding gradient.md"
+    },
+    {
+      "basename": "Vanishing and explosion gradient",
+      "path": "Notebook/Vanishing and explosion gradient/Vanishing and explosion gradient.md"
+    },
+    {
+      "basename": "Constrastive learning",
+      "path": "base-knowledge/Advance knowledge/Contrastive learning/Constrastive learning.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
