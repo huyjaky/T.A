@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4a265b3c24af743",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "0bdf35db6824a2f4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AIO notebook/From MLP to CNN/From MLP to CNN_v6.pdf",
-                "page": 51,
-                "left": -13,
-                "top": 424,
-                "zoom": 1.15078125
+                "file": "Buổi 4/Cấu trúc câu đơn - cụm danh từ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "From MLP to CNN_v6"
+              "icon": "lucide-file",
+              "title": "Cấu trúc câu đơn - cụm danh từ"
             }
           },
           {
@@ -228,24 +216,34 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d4a265b3c24af743",
+  "active": "0bdf35db6824a2f4",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250210205554.png",
+    "ETS-2024/ĐỀ LC/TEST 6 LC (1).pdf",
+    "ETS-2024/ĐỀ LC/ĐÁP ÁN ETS 2024 LC.pdf",
+    "ETS-2024/ĐỀ LC/TEST 3 LC (1).pdf",
+    "ETS-2024/ĐỀ LC/TEST 10 LC (1).pdf",
+    "ETS-2024/ĐỀ LC/TEST 4 LC (1).pdf",
+    "ETS-2024/ĐỀ LC/TEST 9 LC (1).pdf",
+    "ETS-2024/ĐỀ LC/ANSWER SHEET.pdf",
+    "ETS-2024/ĐỀ LC/TEST 1 LC (1).pdf",
+    "ETS-2024/ĐỀ LC/TEST 2 LC (1).pdf",
+    "ETS-2024/ĐỀ LC/TEST 7 LC (1).pdf",
+    "Attachments/Pasted image 20250210204503.png",
+    "Buổi 2/Vowels (nguyên âm).md",
+    "Buổi 4/Cấu trúc câu đơn - cụm danh từ.md",
+    "Buổi 1/vocab.md",
+    "Attachments/Pasted image 20250210201440.png",
+    "Buổi 1/Consonants (phụ âm).md",
+    "Attachments/Pasted image 20250210200418.png",
+    "Attachments/Pasted image 20250210195834.png",
+    "Untitled.md",
     "Calendar.md",
-    "Untitled",
     "Code model/Knowledge/Knowledge model/VGG-16.md",
     "Terminology/Convolution layer.md",
-    "AIO notebook/How to train CNNs/How to train CNNs_v3.pdf",
     "Code model/Knowledge/Knowledge model/CNN (convolution neural networks).md",
-    "AIO notebook/From MLP to CNN/From MLP to CNN_v6.pdf",
     "Code model/Knowledge/Knowledge model/Resnet.md",
-    "AIO homework/Code/CNN/[Description]-CNN-Applications.pdf",
     "Excalidraw/cnn.excalidraw.md",
-    "AIO notebook/AirFlow for Scheduling/Airflow_v3.pdf",
-    "AIO notebook/How to train CNNs/Friday-20250210T094506Z-001/Friday/How to train CNNs_v3.pdf",
-    "AIO notebook/How to train CNNs/Friday-20250210T094506Z-001/Friday",
-    "AIO notebook/How to train CNNs/Friday-20250210T094506Z-001",
-    "AIO notebook/How to train CNNs/Friday-20250210T094506Z-001.zip",
-    "AIO notebook/How to train CNNs",
     "Code model/Knowledge/Knowledge model/Gradient normalization.md",
     "Code model/Knowledge/Image preprocessor/Stride.md",
     "Code model/Knowledge/Image preprocessor/Pooling layer.md",
@@ -260,12 +258,6 @@
     "Code model/Knowledge/Distance/Manhattan.md",
     "Code model/Knowledge/Distance/Euclidean.md",
     "Code model/Knowledge/Initialization/Xavier and HE initialization.md",
-    "base-knowledge/Advance knowledge/CNN/CNN (convolution neural network).md",
-    "base-knowledge/Advance knowledge/CNN/MLP (multi-layer perceptron.md",
-    "Code model/Function folder/accuracy_score.md",
-    "Terminology/Multilayer-perceptron.md",
-    "TrashNote/Drawing 2024-11-05 13.57.30.excalidraw.md",
-    "Terminology/Multiple regression.md",
     "Code model/Knowledge/Optimizers/Adam graph.canvas",
     "Attachments/Pasted image 20250203151146.png",
     "Attachments/Pasted image 20250124150445.png",
@@ -273,10 +265,6 @@
     "Attachments/Pasted image 20250124144028.png",
     "Attachments/Pasted image 20250124143856.png",
     "Attachments/Pasted image 20250123184950.png",
-    "Attachments/Pasted image 20250123165910.png",
-    "Attachments/Pasted image 20250123165907.png",
-    "Attachments/Pasted image 20250123161721.png",
-    "Attachments/Pasted image 20250123161715.png",
     "TrashNote/Untitled 1.canvas",
     "TrashNote/Untitled.canvas",
     "TrashNote/Đồ họa máy tính.canvas",
