@@ -10,7 +10,9 @@ Cụm danh từ là phải dịch lui (dịch từ phải qua trái)
 
 ## Cụm danh từ là gì ?
 ![[Pasted image 20250211214636.png]]
-
+![[Pasted image 20250211223714.png]]
+![[Pasted image 20250211223816.png]]
+sau giới từ thì mình không cần dịch cụm danh từ đằng sau nó vì nó có khả năng cao là một cụm giới từ 
 ## Dấu hiệu bắt đầu của một cụm danh từ 
 ![[Pasted image 20250211213916.png]]
 ![[Pasted image 20250211214206.png]]
