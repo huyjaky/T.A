@@ -164,8 +164,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -218,6 +218,10 @@
   },
   "active": "0bdf35db6824a2f4",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250211214636.png",
+    "Attachments/Pasted image 20250211214536.png",
+    "Attachments/Pasted image 20250211214206.png",
+    "Attachments/Pasted image 20250211213916.png",
     "Attachments/Pasted image 20250210205554.png",
     "ETS-2024/ĐỀ LC/TEST 6 LC (1).pdf",
     "ETS-2024/ĐỀ LC/ĐÁP ÁN ETS 2024 LC.pdf",
@@ -261,10 +265,6 @@
     "Code model/Knowledge/Optimizers/Adam graph.canvas",
     "Attachments/Pasted image 20250203151146.png",
     "Attachments/Pasted image 20250124150445.png",
-    "Attachments/Pasted image 20250124150238.png",
-    "Attachments/Pasted image 20250124144028.png",
-    "Attachments/Pasted image 20250124143856.png",
-    "Attachments/Pasted image 20250123184950.png",
     "TrashNote/Untitled 1.canvas",
     "TrashNote/Untitled.canvas",
     "TrashNote/Đồ họa máy tính.canvas",

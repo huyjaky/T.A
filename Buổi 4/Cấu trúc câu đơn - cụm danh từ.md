@@ -8,5 +8,13 @@ Cụm danh từ là phải dịch lui (dịch từ phải qua trái)
 ![[Pasted image 20250210205554.png]]
 ->> như ta có thể thấy rằng là Lasner Elec staff sẽ được dịch ngược lại thành: nhân viên Lasner Elec 
 
+## Cụm danh từ là gì ?
+![[Pasted image 20250211214636.png]]
 
- 
+## Dấu hiệu bắt đầu của một cụm danh từ 
+![[Pasted image 20250211213916.png]]
+![[Pasted image 20250211214206.png]]
+
+## Dấu hiệu kết thúc một cụm danh từ 
+![[Pasted image 20250211214536.png]]
+
