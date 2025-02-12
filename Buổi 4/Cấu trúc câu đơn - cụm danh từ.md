@@ -20,3 +20,14 @@ sau giới từ thì mình không cần dịch cụm danh từ đằng sau nó v
 ## Dấu hiệu kết thúc một cụm danh từ 
 ![[Pasted image 20250211214536.png]]
 
+## Danh từ 
+![[Pasted image 20250212202659.png]]![[Pasted image 20250212203850.png]]
+->> chỉ khi xác định là một cụm danh từ và nó là danh từ chính thì mới được điền danh từ vào
+
+### Đuôi danh từ chỉ người hoặc vật
+khi nhận biết được danh từ chỉ người hoặc vật thì mình có thể ăn gian nếu không biết nghĩa thì mình có thể ăn gian đọc lái nó là cái gì đó hoặc người gì đó
+
+![[Pasted image 20250212204000.png]]
+->> chú ý đuôi ness, ism, sis
+
+## Phân loại danh từ đếm được và không đếm được 
