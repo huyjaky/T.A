@@ -30,4 +30,10 @@ khi nhận biết được danh từ chỉ người hoặc vật thì mình có 
 ![[Pasted image 20250212204000.png]]
 ->> chú ý đuôi ness, ism, sis
 
-## Phân loại danh từ đếm được và không đếm được 
+### Phân loại danh từ đếm được và không đếm được 
+![[Pasted image 20250212204952.png]]
+
+->> <font color="#f79646">mẹo</font>: 
+- nếu danh từ đếm được thì mình thêm số 1, 2, 3 vào trước danh từ đó nếu nó có nghĩa thì là danh từ đếm được 
+- nếu ngược lại khi thêm vào mà nó không có nghĩa vd: 1 tiền, 2 tiền (tiền không đếm được chỉ có tờ tiền mới đếm được) vì thế dùng ở đây là danh từ không đếm được
+
