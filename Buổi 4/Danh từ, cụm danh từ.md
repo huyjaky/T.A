@@ -54,4 +54,4 @@ khi nhận biết được danh từ chỉ người hoặc vật thì mình có 
 2. gặp những bài điền ô trống thì phải để ý nó có nằm trong đường đi của cụm danh từ hay không 
 3. có thể xác định loại từ của tức gốc của nó thông qua đáp án 
 	1. ![[Pasted image 20250213102152.png]] ví dụ: đáp án B khi bỏ ing đi thì là một động từ vì chỉ có động từ mới thêm được ing vào cuối câu mà thôi -> đáp án A là một động từ thêm S 
-4. 
+4. nếu rơi vào những trường hợp đặc biệt thì ưu tiên chọn những từ trường hợp đặc biệt
