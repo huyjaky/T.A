@@ -46,3 +46,12 @@ khi nhận biết được danh từ chỉ người hoặc vật thì mình có 
 
 ## Danh từ có đuôi "IVE" (Cần phải học thuộc vì xuất hiện nhiều)
 ![[Pasted image 20250212222733.png]]
+
+## Mẹo làm bài
+
+**Lưu ý**: 
+1. là cụm danh từ sẽ bắt đầu và kéo dài cho tới khi gặp được động từ hoặc một giới từ thì nó mới kết thúc chứ không kết thức dữa chừng được
+2. gặp những bài điền ô trống thì phải để ý nó có nằm trong đường đi của cụm danh từ hay không 
+3. có thể xác định loại từ của tức gốc của nó thông qua đáp án 
+	1. ![[Pasted image 20250213102152.png]] ví dụ: đáp án B khi bỏ ing đi thì là một động từ vì chỉ có động từ mới thêm được ing vào cuối câu mà thôi -> đáp án A là một động từ thêm S 
+4. 
