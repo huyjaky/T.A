@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buổi 4/Danh từ, cụm danh từ.md",
+                "file": "Buổi 6/Tính từ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Danh từ, cụm danh từ"
+              "title": "Tính từ"
             }
           },
           {
@@ -218,18 +218,20 @@
   },
   "active": "0bdf35db6824a2f4",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20250213102152.png",
-    "Attachments/Pasted image 20250212222733.png",
-    "Attachments/Pasted image 20250212222546.png",
+    "Attachments/Pasted image 20250213203013.png",
+    "Attachments/Pasted image 20250213202907.png",
+    "Attachments/Pasted image 20250213202705.png",
+    "Attachments/Pasted image 20250213202601.png",
+    "Attachments/Pasted image 20250213202324.png",
+    "Attachments/Pasted image 20250213202312.png",
+    "Attachments/Pasted image 20250213202240.png",
+    "Attachments/Pasted image 20250213202132.png",
+    "Attachments/Pasted image 20250213201946.png",
+    "Attachments/Pasted image 20250213201727.png",
+    "Attachments/Pasted image 20250213201526.png",
     "Buổi 4/Danh từ, cụm danh từ.md",
-    "Attachments/Pasted image 20250212221155.png",
-    "Attachments/Pasted image 20250212221004.png",
-    "Attachments/Pasted image 20250212220952.png",
-    "Attachments/Pasted image 20250212220841.png",
-    "Attachments/Pasted image 20250212204952.png",
-    "Attachments/Pasted image 20250212204000.png",
-    "Attachments/Pasted image 20250212203850.png",
-    "Attachments/Pasted image 20250212202659.png",
+    "Buổi 6/Tính từ.md",
+    "Buổi 6",
     "ETS-2024/ĐỀ LC/TEST 6 LC (1).pdf",
     "ETS-2024/ĐỀ LC/ĐÁP ÁN ETS 2024 LC.pdf",
     "ETS-2024/ĐỀ LC/TEST 3 LC (1).pdf",
@@ -239,7 +241,6 @@
     "ETS-2024/ĐỀ LC/ANSWER SHEET.pdf",
     "ETS-2024/ĐỀ LC/TEST 1 LC (1).pdf",
     "ETS-2024/ĐỀ LC/TEST 2 LC (1).pdf",
-    "ETS-2024/ĐỀ LC/TEST 7 LC (1).pdf",
     "Buổi 2/Vowels (nguyên âm).md",
     "Buổi 1/vocab.md",
     "Buổi 1/Consonants (phụ âm).md",
@@ -263,7 +264,6 @@
     "Code model/Knowledge/Distance/Minkowski.md",
     "Code model/Knowledge/Distance/Manhattan.md",
     "Code model/Knowledge/Distance/Euclidean.md",
-    "Code model/Knowledge/Initialization/Xavier and HE initialization.md",
     "Code model/Knowledge/Optimizers/Adam graph.canvas",
     "TrashNote/Untitled 1.canvas",
     "TrashNote/Untitled.canvas",
