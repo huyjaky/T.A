@@ -40,3 +40,9 @@ khi nhận biết được danh từ chỉ người hoặc vật thì mình có 
 ![[Pasted image 20250212220841.png]]
 ![[Pasted image 20250212220952.png]]
 ![[Pasted image 20250212221155.png]]
+
+## Chuyển đổi động từ gốc thành danh từ ![[Pasted image 20250212222546.png]]
+->> động từ gốc là động từ chưa qua biến đổi gì cả 
+
+## Danh từ có đuôi "IVE" (Cần phải học thuộc vì xuất hiện nhiều)
+![[Pasted image 20250212222733.png]]
