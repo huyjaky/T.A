@@ -46,7 +46,7 @@ khi nhận biết được danh từ chỉ người hoặc vật thì mình có 
 
 ## Danh từ có đuôi "IVE" (Cần phải học thuộc vì xuất hiện nhiều)
 ![[Pasted image 20250212222733.png]]
-
+timetable (n): lịch để bàn 
 ## Mẹo làm bài
 
 **Lưu ý**: 
