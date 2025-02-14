@@ -56,3 +56,4 @@ khi nhận biết được danh từ chỉ người hoặc vật thì mình có 
 	1. ![[Pasted image 20250213102152.png]] ví dụ: đáp án B khi bỏ ing đi thì là một động từ vì chỉ có động từ mới thêm được ing vào cuối câu mà thôi -> đáp án A là một động từ thêm S 
 4. nếu rơi vào những trường hợp đặc biệt thì ưu tiên chọn những từ trường hợp đặc biệt 
 5. <font color="#f79646">danh từ chính không thể đứng một mình</font>
+6. <font color="#f79646">trước một cụm danh từ chỉ có thể là giới từ hoặc V-ngoại chủ động</font>
