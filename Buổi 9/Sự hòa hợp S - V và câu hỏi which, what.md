@@ -13,3 +13,9 @@ EX:
 
 ![[Pasted image 20250217195332.png]]
 ->> The/A number of không phải là một cụm danh từ mà là một từ trường hợp đặc biệt
+A number of == many 
+
+---
+
+![[Pasted image 20250217202047.png]]
+![[Pasted image 20250217202107.png]]
