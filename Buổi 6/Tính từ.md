@@ -22,7 +22,10 @@
 ### Trường hợp đặc biệt
 ![[Pasted image 20250213203013.png]]
 
+## Lưu ý
 
 ![[Pasted image 20250213221306.png]]
 đáp án là câu B 
 ->> tính từ bổ nghĩa cho tân nghữ proposal (mình có thể bỏ cụm danh từ sau giới từ đằng sau danh từ) 
+
+tính từ không thể nằm trước trợ động từ được
