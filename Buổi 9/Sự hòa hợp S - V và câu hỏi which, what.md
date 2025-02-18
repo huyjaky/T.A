@@ -1,5 +1,7 @@
 ![[Pasted image 20250217191641.png]]
--> xuất hiện những từ này thì chú ý chia thì theo số ít 
+-> Xuất hiện đại từ bất định như trên thì đó là chủ ngữ số ít và chia theo số ít
+
+![[Pasted image 20250218183714.png]]
 
 EX:
 ![[Pasted image 20250217191708.png]]
