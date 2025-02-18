@@ -17,6 +17,8 @@ EX:
 ->> The/A number of không phải là một cụm danh từ mà là một từ trường hợp đặc biệt
 A number of == many 
 
+->> sau The/A number of cộng danh từ + động từ như trên
+
 ---
 
 ![[Pasted image 20250217202047.png]]
