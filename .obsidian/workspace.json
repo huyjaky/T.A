@@ -25,12 +25,14 @@
             "id": "598ab4c663a5ecc1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Buổi 10/Tính từ phân từ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Tính từ phân từ"
             }
           },
           {
@@ -227,12 +229,18 @@
   },
   "active": "598ab4c663a5ecc1",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250219215419.png",
+    "Attachments/Pasted image 20250219214536.png",
+    "Attachments/Pasted image 20250219214511.png",
+    "Attachments/Pasted image 20250219214311.png",
     "Buổi 6/Tính từ.md",
+    "Buổi 4/Danh từ, cụm danh từ.md",
+    "Buổi 10/Tính từ phân từ.md",
+    "Buổi 10",
     "Buổi 9/Sự hòa hợp S - V và câu hỏi which, what.md",
     "Buổi 7/Động từ.md",
     "Buổi 8/Động tử bị động.md",
     "Attachments/Pasted image 20250218183714.png",
-    "Buổi 4/Danh từ, cụm danh từ.md",
     "Mindmap thi toiec/Mindmap.md",
     "Mindmap thi toiec",
     "Attachments/Pasted image 20250217202107.png",
@@ -242,10 +250,7 @@
     "Attachments/Pasted image 20250217191708.png",
     "Attachments/Pasted image 20250217191641.png",
     "Buổi 9",
-    "Attachments/Pasted image 20250217180511.png",
     "cụm danh từ đáng nhớ.md",
-    "Attachments/Pasted image 20250215202435.png",
-    "Attachments/Pasted image 20250215201446.png",
     "Buổi 8",
     "Buổi 7",
     "Buổi 6",
@@ -253,7 +258,6 @@
     "ETS-2024/ĐỀ LC/ĐÁP ÁN ETS 2024 LC.pdf",
     "ETS-2024/ĐỀ LC/TEST 3 LC (1).pdf",
     "ETS-2024/ĐỀ LC/TEST 10 LC (1).pdf",
-    "ETS-2024/ĐỀ LC/TEST 4 LC (1).pdf",
     "Buổi 2/Vowels (nguyên âm).md",
     "Buổi 1/vocab.md",
     "Buổi 1/Consonants (phụ âm).md",
@@ -271,7 +275,6 @@
     "Terminology/Padding.md",
     "Code model/Model/Preprocessing Data/Image Data/Sử lý data Image.md",
     "Terminology/Average pooling.md",
-    "Code model/Knowledge/Distance/Chebyshev.md",
     "Code model/Knowledge/Optimizers/Adam graph.canvas",
     "TrashNote/Untitled 1.canvas",
     "TrashNote/Untitled.canvas",
