@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "598ab4c663a5ecc1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
             "id": "911491cec9ada842",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +225,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0bdf35db6824a2f4",
+  "active": "598ab4c663a5ecc1",
   "lastOpenFiles": [
     "Buổi 6/Tính từ.md",
     "Buổi 9/Sự hòa hợp S - V và câu hỏi which, what.md",
