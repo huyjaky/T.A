@@ -7,9 +7,17 @@
 các cấp bậc ưu tiên
 ![[Pasted image 20250219214536.png]]
 
--> trong bài thi toeic thường mô tả cảm xúc của con người nên nếu cần một tính từ mô tả cho con người mọi người ưu tiên<font color="#f79646"> tính từ chỉ cảm xúc (tính từ phân từ bị động)</font> -> ưu tiên tính từ phân từ bị động được ưu tiên hơn cả tính từ gốc hoặc đuôi tính từ
+1. trong bài thi toeic thường mô tả cảm xúc của con người nên nếu cần một tính từ mô tả cho con người mọi người ưu tiên<font color="#f79646"> tính từ chỉ cảm xúc (tính từ phân từ bị động)</font> -> ưu tiên tính từ phân từ bị động được ưu tiên hơn cả tính từ gốc hoặc đuôi tính từ
 
--> chú ý những câu mà có đáp án không có đuôi tính từ thì phải xét đến tính từ phân từ bị động hoặc chủ động
+2. chú ý những câu mà có đáp án không có đuôi tính từ thì phải xét đến tính từ phân từ bị động hoặc chủ động
+
+3. <font color="#f79646">gặp những từ chỉ người đứng trước tính từ thì mình dùng tính từ</font> + ed (đặc biệt quan trọng)
+
+4. cứ sau to be thì cộng tính từ (trường hợp ing hoặc ed)
+
+## Từ 
+![[Pasted image 20250221164947.png]]
+-> tính từ phân từ bị động mô tả một ai đó giỏi
 
 ## VD:
 ![[Pasted image 20250219215419.png]]

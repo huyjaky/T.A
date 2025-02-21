@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buổi 10/Tính từ phân từ.md",
+                "file": "Buổi 10/Liên từ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tính từ phân từ"
+              "title": "Liên từ"
             }
           },
           {
@@ -216,31 +216,40 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "598ab4c663a5ecc1",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250221165413.png",
+    "Attachments/Pasted image 20250221165400.png",
+    "Buổi 10/Tính từ phân từ.md",
+    "Buổi 10/Liên từ.md",
+    "Attachments/Pasted image 20250221164947.png",
+    "Mindmap thi toiec/Mindmap.md",
     "Attachments/Pasted image 20250219215419.png",
     "Attachments/Pasted image 20250219214536.png",
     "Attachments/Pasted image 20250219214511.png",
     "Attachments/Pasted image 20250219214311.png",
     "Buổi 6/Tính từ.md",
     "Buổi 4/Danh từ, cụm danh từ.md",
-    "Buổi 10/Tính từ phân từ.md",
     "Buổi 10",
     "Buổi 9/Sự hòa hợp S - V và câu hỏi which, what.md",
     "Buổi 7/Động từ.md",
     "Buổi 8/Động tử bị động.md",
     "Attachments/Pasted image 20250218183714.png",
-    "Mindmap thi toiec/Mindmap.md",
     "Mindmap thi toiec",
     "Attachments/Pasted image 20250217202107.png",
     "Attachments/Pasted image 20250217202047.png",
     "Attachments/Pasted image 20250217195332.png",
-    "Attachments/Pasted image 20250217195216.png",
-    "Attachments/Pasted image 20250217191708.png",
-    "Attachments/Pasted image 20250217191641.png",
     "Buổi 9",
     "cụm danh từ đáng nhớ.md",
     "Buổi 8",
@@ -266,7 +275,6 @@
     "Code model/Knowledge/Image preprocessor/Average pooling.md",
     "Terminology/Padding.md",
     "Code model/Model/Preprocessing Data/Image Data/Sử lý data Image.md",
-    "Terminology/Average pooling.md",
     "Code model/Knowledge/Optimizers/Adam graph.canvas",
     "TrashNote/Untitled 1.canvas",
     "TrashNote/Untitled.canvas",
