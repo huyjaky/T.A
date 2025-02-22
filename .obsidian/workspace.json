@@ -185,8 +185,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -216,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,12 +238,14 @@
   },
   "active": "d9e270c0aa7acb40",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250222181413.png",
+    "Attachments/Pasted image 20250222180631.png",
+    "Cô mai phương/Nghe/Photos of people.md",
     "Attachments/Pasted image 20250222120430.png",
     "Attachments/Pasted image 20250222120404.png",
     "Attachments/Pasted image 20250222120309.png",
     "Attachments/Pasted image 20250222115323.png",
     "Attachments/Pasted image 20250222115038.png",
-    "Cô mai phương/Nghe/Photos of people.md",
     "Cô thắm/Buổi 10/Liên từ.md",
     "Attachments/Pasted image 20250221180619.png",
     "Attachments/Pasted image 20250221180513.png",
@@ -255,9 +256,7 @@
     "Attachments/Pasted image 20250221172901.png",
     "Cô thắm/Buổi 7/Động từ.md",
     "Attachments/Pasted image 20250221165413.png",
-    "Attachments/Pasted image 20250221165400.png",
     "Cô thắm/Buổi 10/Tính từ phân từ.md",
-    "Attachments/Pasted image 20250221164947.png",
     "Mindmap thi toiec/Mindmap.md",
     "Cô thắm/Buổi 6/Tính từ.md",
     "Cô thắm/Buổi 4/Danh từ, cụm danh từ.md",
