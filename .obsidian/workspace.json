@@ -37,12 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cô mai phương/Nghe/Bài tập điền từ.md",
+                "file": "Cô thắm/Buổi 11/Đại từ - trạng từ - câu hỏi giao tiếp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bài tập điền từ"
+              "title": "Đại từ - trạng từ - câu hỏi giao tiếp"
+            }
+          },
+          {
+            "id": "a06a9d92df456fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cô thắm/Buổi 11/Đại từ - trạng từ - câu hỏi giao tiếp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Đại từ - trạng từ - câu hỏi giao tiếp"
             }
           },
           {
@@ -56,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,21 +251,24 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d9e270c0aa7acb40",
+  "active": "a06a9d92df456fee",
   "lastOpenFiles": [
-    "Cô mai phương/Nghe/Photos of people.md",
+    "Attachments/Pasted image 20250222221414.png",
+    "Cô thắm/Buổi 11/Đại từ - trạng từ - câu hỏi giao tiếp.md",
+    "Attachments/Pasted image 20250222221402.png",
+    "Attachments/Pasted image 20250222220418.png",
+    "Attachments/Pasted image 20250222215922.png",
+    "Attachments/Pasted image 20250222215835.png",
+    "Attachments/Pasted image 20250222215807.png",
+    "Cô thắm/cụm danh từ đáng nhớ.md",
+    "Cô thắm/Buổi 10/Liên từ.md",
+    "Attachments/Pasted image 20250222215449.png",
     "Cô mai phương/Nghe/Bài tập điền từ.md",
+    "Cô thắm/Buổi 11",
+    "Cô mai phương/Nghe/Photos of people.md",
     "Attachments/Pasted image 20250222181638.png",
     "Attachments/Pasted image 20250222181413.png",
     "Attachments/Pasted image 20250222180631.png",
-    "Attachments/Pasted image 20250222120430.png",
-    "Attachments/Pasted image 20250222120404.png",
-    "Attachments/Pasted image 20250222120309.png",
-    "Attachments/Pasted image 20250222115323.png",
-    "Attachments/Pasted image 20250222115038.png",
-    "Cô thắm/Buổi 10/Liên từ.md",
-    "Attachments/Pasted image 20250221180619.png",
-    "Attachments/Pasted image 20250221180513.png",
     "Cô mai phương/Nghe",
     "Cô mai phương",
     "Cô thắm",
@@ -266,11 +283,9 @@
     "Cô thắm/Buổi 8/Động tử bị động.md",
     "Mindmap thi toiec",
     "Cô thắm/Buổi 9",
-    "Cô thắm/cụm danh từ đáng nhớ.md",
     "Cô thắm/Buổi 8",
     "Cô thắm/Buổi 7",
     "Cô thắm/Buổi 6",
-    "ETS-2024/ĐỀ LC/TEST 6 LC (1).pdf",
     "Cô thắm/Buổi 2/Vowels (nguyên âm).md",
     "Cô thắm/Buổi 1/vocab.md",
     "Cô thắm/Buổi 1/Consonants (phụ âm).md",
@@ -283,8 +298,6 @@
     "Code model/Knowledge/Knowledge model/Gradient normalization.md",
     "Code model/Knowledge/Image preprocessor/Stride.md",
     "Code model/Knowledge/Image preprocessor/Pooling layer.md",
-    "Code model/Knowledge/Image preprocessor/Padding.md",
-    "Code model/Knowledge/Image preprocessor/Average pooling.md",
     "Code model/Knowledge/Optimizers/Adam graph.canvas",
     "TrashNote/Untitled 1.canvas",
     "TrashNote/Untitled.canvas",
