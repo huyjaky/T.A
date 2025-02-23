@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cô thắm/Buổi 11/Đại từ - trạng từ - câu hỏi giao tiếp.md",
+                "file": "Cô thắm/Buổi 11/trạng từ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Đại từ - trạng từ - câu hỏi giao tiếp"
+              "title": "trạng từ"
             }
           },
           {
@@ -253,22 +253,24 @@
   },
   "active": "a06a9d92df456fee",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20250222221414.png",
+    "Attachments/Pasted image 20250222223852.png",
+    "Attachments/Pasted image 20250222223710.png",
+    "Attachments/Pasted image 20250222223346.png",
+    "Attachments/Pasted image 20250222223212.png",
     "Cô thắm/Buổi 11/Đại từ - trạng từ - câu hỏi giao tiếp.md",
+    "Cô thắm/Buổi 11/trạng từ.md",
+    "Attachments/Pasted image 20250222222921.png",
+    "Attachments/Pasted image 20250222222613.png",
+    "Attachments/Pasted image 20250222221414.png",
     "Attachments/Pasted image 20250222221402.png",
     "Attachments/Pasted image 20250222220418.png",
     "Attachments/Pasted image 20250222215922.png",
     "Attachments/Pasted image 20250222215835.png",
-    "Attachments/Pasted image 20250222215807.png",
     "Cô thắm/cụm danh từ đáng nhớ.md",
     "Cô thắm/Buổi 10/Liên từ.md",
-    "Attachments/Pasted image 20250222215449.png",
     "Cô mai phương/Nghe/Bài tập điền từ.md",
     "Cô thắm/Buổi 11",
     "Cô mai phương/Nghe/Photos of people.md",
-    "Attachments/Pasted image 20250222181638.png",
-    "Attachments/Pasted image 20250222181413.png",
-    "Attachments/Pasted image 20250222180631.png",
     "Cô mai phương/Nghe",
     "Cô mai phương",
     "Cô thắm",
@@ -297,7 +299,6 @@
     "Excalidraw/cnn.excalidraw.md",
     "Code model/Knowledge/Knowledge model/Gradient normalization.md",
     "Code model/Knowledge/Image preprocessor/Stride.md",
-    "Code model/Knowledge/Image preprocessor/Pooling layer.md",
     "Code model/Knowledge/Optimizers/Adam graph.canvas",
     "TrashNote/Untitled 1.canvas",
     "TrashNote/Untitled.canvas",

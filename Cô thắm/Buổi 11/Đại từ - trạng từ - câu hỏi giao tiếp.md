@@ -11,7 +11,9 @@
 <span style="background:#affad1">-> đại từ sở hữ không ưu tiên kho chọn đáp án</span>
 
 ### đại từ phản thân 
-
+![[Pasted image 20250222222613.png]]
+1. đại từ phản thân được dùng khi nó làm tân ngữ và chủ ngữ trùng với tân ngữ đó VD: tôi yêu tôi -> i love myself (<font color="#f79646">ở đây chủ ngữ trùng với danh từ đứng sau làm tân ngữ nên ta thay nó luôn</font>)![[Pasted image 20250222222921.png]]
+2. và dùng làm trạng từ
 
 **chú ý**: 
 - dòng họ they: dòng họ thằng này có 2 trường hợp là Họ, chúng ![[Pasted image 20250222215922.png]] (đi kèm với danh từ số nhiều
