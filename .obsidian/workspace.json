@@ -58,16 +58,6 @@
               "icon": "lucide-file",
               "title": "trạng từ"
             }
-          },
-          {
-            "id": "911491cec9ada842",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
         "currentTab": 3
