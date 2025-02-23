@@ -17,6 +17,7 @@
 vd: 
 1. đặt grab đến đón ở 03 hoàng đức lương (đây là địa điểm cụ thể và khoanh vùng bé) -> dùng At
 2. đặt graub đến đón ở quận sơn trà (đây là một vùng đón rộng không biết đón ở nơi nào )-> dùng In
+3. ![[Pasted image 20250223220606.png]]ff
 
 ## Giới từ 
 ![[Pasted image 20250223213004.png]]
@@ -44,6 +45,6 @@ vd:
 ![[Pasted image 20250223214659.png]]
 ![[Pasted image 20250223214731.png]]
 
-
+prior to: trước 
 
 
