@@ -26,5 +26,20 @@
 
 ### liên từ mặt dù 
 ![[Pasted image 20250224182955.png]]
+-> NP cụm danh từ
 -> sự đối lập mặt tích cực và tiêu cực của 2 mệnh đề sẽ gợi ý ta dùng mặt dù 
 
+![[Pasted image 20250224183328.png]]
+
+### liên từ bởi vì 
+![[Pasted image 20250224183347.png]]
+![[Pasted image 20250224183550.png]]
+-> NP cụm danh từ 
+
+![[Pasted image 20250224183559.png]]
+![[Pasted image 20250224183801.png]]
+
+
+## trạng từ hay gặp 
+-> trạng từ đứng đầu câu 
+![[Pasted image 20250224184250.png]]
