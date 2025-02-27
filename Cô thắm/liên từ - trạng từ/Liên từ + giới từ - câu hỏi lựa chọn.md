@@ -3,7 +3,7 @@
 
 ![[Pasted image 20250223212112.png]]
 - sau liên từ là một mệnh đề 
-- sau giới từ là một động từ thêm ing hoặc một cụm danh từ 
+- sau giới từ là một động từ thêm ing hoặc một cụm danh từ  
 ## các giới từ phổ biến
 
 ![[Pasted image 20250223212205.png]]
