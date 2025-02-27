@@ -11,6 +11,7 @@ tính từ được chia làm hai loại:
 nếu tính từ dài (tính từ có trên hai âm) 
 ![[Pasted image 20250227104039.png]]
 -> much đi kèm với more được 
+-> đáp án chứa so sánh và trước ô trống là more thì vẫn dùng so sánh hơn không cần thiết xuất hiện "the"
 
 ## so sánh nhất
 ![[Pasted image 20250227102016.png]]
