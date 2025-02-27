@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cô thắm/liên từ - trạng từ/Liên từ + giới từ - câu hỏi lựa chọn.md",
+                "file": "Cô thắm/so sánh/so sánh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liên từ + giới từ - câu hỏi lựa chọn"
+              "title": "so sánh"
             }
           },
           {
@@ -229,9 +229,13 @@
   },
   "active": "598ab4c663a5ecc1",
   "lastOpenFiles": [
-    "Cô thắm/liên từ - trạng từ/Liên từ câu hỏi đề nghị.md",
-    "Cô thắm/liên từ - trạng từ/Liên từ + giới từ - câu hỏi lựa chọn.md",
+    "Attachments/Pasted image 20250227101412.png",
     "Cô thắm/liên từ - trạng từ/trạng từ.md",
+    "Cô thắm/so sánh/so sánh.md",
+    "Attachments/Pasted image 20250227100824.png",
+    "Cô thắm/liên từ - trạng từ/Liên từ + giới từ - câu hỏi lựa chọn.md",
+    "Cô thắm/so sánh",
+    "Cô thắm/liên từ - trạng từ/Liên từ câu hỏi đề nghị.md",
     "Cô thắm/Mẹo/Mẹo về dịch.md",
     "Cô thắm/cụm danh từ đáng nhớ.md",
     "Cô thắm/Mẹo",
@@ -249,7 +253,6 @@
     "Attachments/Pasted image 20250224182955.png",
     "Attachments/Pasted image 20250224182841.png",
     "Attachments/Pasted image 20250224182830.png",
-    "Attachments/Pasted image 20250224182701.png",
     "Cô thắm/liên từ - trạng từ/Liên từ.md",
     "Từ vựng 1.md",
     "Cô thắm/Buổi 13",
@@ -263,7 +266,6 @@
     "Cô mai phương/Từ vựng",
     "Cô thắm/Buổi 12",
     "Cô mai phương/Nghe/Bài tập điền từ.md",
-    "Cô thắm/Buổi 11",
     "Cô mai phương/Nghe/Photos of people.md",
     "Cô thắm/Động từ/Động từ.md",
     "Mindmap thi toiec/Mindmap.md",
@@ -273,8 +275,6 @@
     "Code model/Knowledge/Knowledge model/VGG-16.md",
     "Terminology/Convolution layer.md",
     "Code model/Knowledge/Knowledge model/CNN (convolution neural networks).md",
-    "Code model/Knowledge/Knowledge model/Resnet.md",
-    "Excalidraw/cnn.excalidraw.md",
     "Code model/Knowledge/Optimizers/Adam graph.canvas",
     "TrashNote/Untitled 1.canvas",
     "TrashNote/Untitled.canvas",

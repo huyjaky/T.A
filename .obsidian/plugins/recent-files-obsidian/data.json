@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "so sánh",
+      "path": "Cô thắm/so sánh/so sánh.md"
+    },
+    {
+      "basename": "trạng từ",
+      "path": "Cô thắm/liên từ - trạng từ/trạng từ.md"
+    },
+    {
       "basename": "Liên từ + giới từ - câu hỏi lựa chọn",
       "path": "Cô thắm/liên từ - trạng từ/Liên từ + giới từ - câu hỏi lựa chọn.md"
     },
     {
       "basename": "Liên từ câu hỏi đề nghị",
       "path": "Cô thắm/liên từ - trạng từ/Liên từ câu hỏi đề nghị.md"
-    },
-    {
-      "basename": "trạng từ",
-      "path": "Cô thắm/liên từ - trạng từ/trạng từ.md"
     },
     {
       "basename": "Mẹo về dịch",
@@ -195,10 +199,6 @@
     {
       "basename": "Vanishing and explosion gradient",
       "path": "Notebook/Vanishing and explosion gradient/Vanishing and explosion gradient.md"
-    },
-    {
-      "basename": "Constrastive learning",
-      "path": "base-knowledge/Advance knowledge/Contrastive learning/Constrastive learning.md"
     }
   ],
   "omittedPaths": [],
