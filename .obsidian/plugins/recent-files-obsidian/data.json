@@ -5,6 +5,18 @@
       "path": "Cô thắm/so sánh/so sánh.md"
     },
     {
+      "basename": "vocab",
+      "path": "Cô thắm/vocab.md"
+    },
+    {
+      "basename": "Tính từ",
+      "path": "Cô thắm/tính từ/Tính từ.md"
+    },
+    {
+      "basename": "Tính từ phân từ",
+      "path": "Cô thắm/tính từ/Tính từ phân từ.md"
+    },
+    {
       "basename": "trạng từ",
       "path": "Cô thắm/liên từ - trạng từ/trạng từ.md"
     },
@@ -41,20 +53,12 @@
       "path": "Cô thắm/liên từ - trạng từ/Đại từ - trạng từ - câu hỏi giao tiếp.md"
     },
     {
-      "basename": "Tính từ phân từ",
-      "path": "Cô thắm/tính từ/Tính từ phân từ.md"
-    },
-    {
       "basename": "Sự hòa hợp S - V và câu hỏi which, what",
       "path": "Cô thắm/Sự hòa hợp S - V và câu hỏi which, what.md"
     },
     {
       "basename": "Động tử bị động",
       "path": "Cô thắm/Động từ/Động tử bị động.md"
-    },
-    {
-      "basename": "Tính từ",
-      "path": "Cô thắm/tính từ/Tính từ.md"
     },
     {
       "basename": "Danh từ, cụm danh từ",
@@ -107,10 +111,6 @@
     {
       "basename": "Vowels (nguyên âm)",
       "path": "Cô thắm/Vowels (nguyên âm).md"
-    },
-    {
-      "basename": "vocab",
-      "path": "Cô thắm/vocab.md"
     },
     {
       "basename": "Convolution layer",

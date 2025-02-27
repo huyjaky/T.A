@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0bdf35db6824a2f4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "598ab4c663a5ecc1",
             "type": "leaf",
             "state": {
@@ -45,8 +35,7 @@
               "title": "Liên từ + giới từ - câu hỏi lựa chọn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,9 +218,17 @@
   },
   "active": "598ab4c663a5ecc1",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250227104039.png",
+    "Attachments/Pasted image 20250227103547.png",
+    "Attachments/Pasted image 20250227102016.png",
+    "Attachments/Pasted image 20250227101937.png",
+    "Cô thắm/so sánh/so sánh.md",
+    "Attachments/Pasted image 20250227101703.png",
+    "Cô thắm/vocab.md",
+    "Cô thắm/tính từ/Tính từ.md",
+    "Cô thắm/tính từ/Tính từ phân từ.md",
     "Attachments/Pasted image 20250227101412.png",
     "Cô thắm/liên từ - trạng từ/trạng từ.md",
-    "Cô thắm/so sánh/so sánh.md",
     "Attachments/Pasted image 20250227100824.png",
     "Cô thắm/liên từ - trạng từ/Liên từ + giới từ - câu hỏi lựa chọn.md",
     "Cô thắm/so sánh",
@@ -248,19 +245,12 @@
     "Attachments/Pasted image 20250224183801.png",
     "Attachments/Pasted image 20250224183559.png",
     "Attachments/Pasted image 20250224183550.png",
-    "Attachments/Pasted image 20250224183347.png",
-    "Attachments/Pasted image 20250224183328.png",
-    "Attachments/Pasted image 20250224182955.png",
-    "Attachments/Pasted image 20250224182841.png",
-    "Attachments/Pasted image 20250224182830.png",
     "Cô thắm/liên từ - trạng từ/Liên từ.md",
     "Từ vựng 1.md",
     "Cô thắm/Buổi 13",
     "Cô thắm/liên từ - trạng từ/Đại từ - trạng từ - câu hỏi giao tiếp.md",
-    "Cô thắm/tính từ/Tính từ phân từ.md",
     "Cô thắm/Sự hòa hợp S - V và câu hỏi which, what.md",
     "Cô thắm/Động từ/Động tử bị động.md",
-    "Cô thắm/tính từ/Tính từ.md",
     "Cô thắm/Danh từ/Danh từ, cụm danh từ.md",
     "Cô mai phương/Từ vựng/150tuvungcoban.pdf",
     "Cô mai phương/Từ vựng",
@@ -270,7 +260,6 @@
     "Cô thắm/Động từ/Động từ.md",
     "Mindmap thi toiec/Mindmap.md",
     "Cô thắm/Vowels (nguyên âm).md",
-    "Cô thắm/vocab.md",
     "Calendar.md",
     "Code model/Knowledge/Knowledge model/VGG-16.md",
     "Terminology/Convolution layer.md",
