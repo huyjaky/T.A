@@ -59,6 +59,11 @@ Câu điều kiện (conditional sentences) dùng để diễn tả điều có 
     *(Nếu tôi đã học chăm chỉ hơn, giờ tôi đã là bác sĩ.)*  
     → Quá khứ: Không học chăm; Hiện tại: Không phải bác sĩ.
 
+## Các lưu ý khi nhận biết câu điền kiện 
+
+- nếu đầu câu có chữ should thì nó là câu điề kiện đặc biệt hay còn gạo là đảo trợ động từ If: 
+- đảo if với ĐK loại 1:
+
 ## Một Số Cấu Trúc Đặc Biệt
 - **Unless** (= If not):  
   - Unless you hurry, you will be late. *(Trừ khi bạn nhanh lên, bạn sẽ muộn.)*
@@ -67,6 +72,7 @@ Câu điều kiện (conditional sentences) dùng để diễn tả điều có 
 - **Were to** (Giả định nhấn mạnh):  
   - If I were to win the lottery, I would buy a house. *(Nếu tôi mà trúng số, tôi sẽ mua một căn nhà.)*
 - **Đảo trợ động từ (bỏ "If")**:
+	- ![[Pasted image 20250302161849.png]]
   - Should you need help, call me. *(Nếu bạn cần giúp đỡ, hãy gọi tôi.)*
   - Had I known, I would have come. *(Nếu tôi biết, tôi đã đến.)*
 
