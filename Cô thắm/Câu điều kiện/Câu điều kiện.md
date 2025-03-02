@@ -61,8 +61,13 @@ Câu điều kiện (conditional sentences) dùng để diễn tả điều có 
 
 ## Các lưu ý khi nhận biết câu điền kiện 
 
-- nếu đầu câu có chữ should thì nó là câu điề kiện đặc biệt hay còn gạo là đảo trợ động từ If: 
-- đảo if với ĐK loại 1:
+- đảo if với ĐK loại 1: ![[Pasted image 20250302162050.png]]
+- đảo if với ĐK loại 2:
+	- ![[Pasted image 20250302162242.png]] đảo trợ động từ were lên đầu câu 
+	- còn nếu trong câu không có sẵn were thì mình mượn were và thêm to ![[Pasted image 20250302162439.png]]
+		- ![[Pasted image 20250302162519.png]]
+- đảo if với ĐK loại 3: 
+	- ![[Pasted image 20250302162730.png]]
 
 ## Một Số Cấu Trúc Đặc Biệt
 - **Unless** (= If not):  
