@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cô thắm/so sánh/so sánh.md",
+                "file": "Cô thắm/liên từ - trạng từ/Liên từ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "so sánh"
+              "title": "Liên từ"
+            }
+          },
+          {
+            "id": "89454e8fa7429bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cô thắm/Câu điều kiện/Câu điều kiện.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Câu điều kiện"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "Liên từ + giới từ - câu hỏi lựa chọn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,13 +231,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "598ab4c663a5ecc1",
+  "active": "89454e8fa7429bf6",
   "lastOpenFiles": [
+    "Cô thắm/liên từ - trạng từ/Liên từ + giới từ - câu hỏi lựa chọn.md",
+    "Cô thắm/liên từ - trạng từ/Liên từ.md",
+    "Cô thắm/Câu điều kiện/Câu điều kiện.md",
+    "Cô thắm/so sánh/so sánh.md",
+    "Cô thắm/Câu điều kiện",
+    "Cô thắm/liên từ - trạng từ/Đại từ - trạng từ - câu hỏi giao tiếp.md",
+    "Cô thắm/liên từ - trạng từ/trạng từ.md",
+    "Cô thắm/liên từ - trạng từ/Liên từ câu hỏi đề nghị.md",
     "Cô thắm/Sự hòa hợp S - V và câu hỏi which, what.md",
     "Cô thắm/tính từ/Tính từ.md",
     "Cô thắm/tính từ/Tính từ phân từ.md",
-    "Cô thắm/liên từ - trạng từ/Đại từ - trạng từ - câu hỏi giao tiếp.md",
-    "Cô thắm/liên từ - trạng từ/Liên từ.md",
     "Cô mai phương/Nghe/Thi online photos of people/đáp án.md",
     "Cô mai phương/Nghe/Bài tập điền từ.md",
     "Cô mai phương/Nghe/Thi online photos of people/đề.pdf",
@@ -235,7 +256,6 @@
     "Cô mai phương/Nghe/Photos of people.md",
     "Cô mai phương/Nghe/Thi online photos of people",
     "Cô thắm/bài tập nghe/Buổi 14.md",
-    "Cô thắm/so sánh/so sánh.md",
     "Cô thắm/bài tập nghe",
     "Attachments/Pasted image 20250227104039.png",
     "Attachments/Pasted image 20250227103547.png",
@@ -244,11 +264,7 @@
     "Attachments/Pasted image 20250227101703.png",
     "Cô thắm/vocab.md",
     "Attachments/Pasted image 20250227101412.png",
-    "Cô thắm/liên từ - trạng từ/trạng từ.md",
     "Attachments/Pasted image 20250227100824.png",
-    "Cô thắm/liên từ - trạng từ/Liên từ + giới từ - câu hỏi lựa chọn.md",
-    "Cô thắm/so sánh",
-    "Cô thắm/liên từ - trạng từ/Liên từ câu hỏi đề nghị.md",
     "Cô thắm/Mẹo/Mẹo về dịch.md",
     "Cô thắm/cụm danh từ đáng nhớ.md",
     "Cô thắm/Consonants (phụ âm).md",
@@ -263,7 +279,6 @@
     "Cô thắm/Vowels (nguyên âm).md",
     "Calendar.md",
     "Code model/Knowledge/Knowledge model/VGG-16.md",
-    "Terminology/Convolution layer.md",
     "Code model/Knowledge/Optimizers/Adam graph.canvas",
     "TrashNote/Untitled 1.canvas",
     "TrashNote/Untitled.canvas",
