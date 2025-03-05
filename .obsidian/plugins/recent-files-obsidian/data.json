@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Từ vựng 1",
+      "path": "Từ vựng 1.md"
+    },
+    {
+      "basename": "Bài tập",
+      "path": "Bài tập.md"
+    },
+    {
       "basename": "Liên từ câu hỏi đề nghị",
       "path": "Cô thắm/liên từ - trạng từ/Liên từ câu hỏi đề nghị.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "Consonants (phụ âm)",
       "path": "Cô thắm/Consonants (phụ âm).md"
-    },
-    {
-      "basename": "Từ vựng 1",
-      "path": "Từ vựng 1.md"
     },
     {
       "basename": "Động tử bị động",
@@ -195,10 +199,6 @@
     {
       "basename": "Kernel",
       "path": "Terminology/Kernel.md"
-    },
-    {
-      "basename": "Slide-Project_Vanishing_Gradient_v4",
-      "path": "AIO notebook/Architecture Project Gradient Vanishing in MLP/Slide-Project_Vanishing_Gradient_v4.pdf"
     }
   ],
   "omittedPaths": [],
