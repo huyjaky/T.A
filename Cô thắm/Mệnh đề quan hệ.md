@@ -10,3 +10,5 @@
 đại từ quan hệ cũng có thể làm chủ ngữ luôn 
 
 ![[Pasted image 20250305155931.png]]
+-> đại từ quan hệ 
+
