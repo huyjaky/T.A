@@ -39,6 +39,8 @@
 ![[Pasted image 20250224183559.png]]
 ![[Pasted image 20250224183801.png]]
 
+### liên từ in order to 
+-> sau in order to + danh từ hoặc một động từ nguyên mẫu ![[Pasted image 20250305103351.png]]
 
 ## trạng từ hay gặp 
 -> trạng từ đứng đầu câu 
