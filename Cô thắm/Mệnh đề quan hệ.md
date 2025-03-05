@@ -4,3 +4,5 @@
 ## Cấu trúc mệnh đề quan hệ
 ![[Pasted image 20250305105858.png]]
 ![[Pasted image 20250305110409.png]]
+
+## rút gọn mệnh đề quan hệ 
