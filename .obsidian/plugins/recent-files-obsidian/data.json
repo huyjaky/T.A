@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Mệnh đề quan hệ",
+      "path": "Cô thắm/Mệnh đề quan hệ.md"
+    },
+    {
       "basename": "Liên từ câu hỏi đề nghị",
       "path": "Cô thắm/liên từ - trạng từ/Liên từ câu hỏi đề nghị.md"
     },
     {
-      "basename": "Liên từ + giới từ - câu hỏi lựa chọn",
-      "path": "Cô thắm/liên từ - trạng từ/Liên từ + giới từ - câu hỏi lựa chọn.md"
-    },
-    {
       "basename": "Liên từ",
       "path": "Cô thắm/liên từ - trạng từ/Liên từ.md"
+    },
+    {
+      "basename": "Mẹo về dịch",
+      "path": "Mẹo/Mẹo về dịch.md"
+    },
+    {
+      "basename": "Tính từ",
+      "path": "Cô thắm/tính từ/Tính từ.md"
+    },
+    {
+      "basename": "Tính từ phân từ",
+      "path": "Cô thắm/tính từ/Tính từ phân từ.md"
+    },
+    {
+      "basename": "Động tử bị động",
+      "path": "Cô thắm/Động từ/Động tử bị động.md"
+    },
+    {
+      "basename": "Câu điều kiện",
+      "path": "Cô thắm/Câu điều kiện/Câu điều kiện.md"
+    },
+    {
+      "basename": "Liên từ + giới từ - câu hỏi lựa chọn",
+      "path": "Cô thắm/liên từ - trạng từ/Liên từ + giới từ - câu hỏi lựa chọn.md"
     },
     {
       "basename": "Đại từ - trạng từ - câu hỏi giao tiếp",
@@ -33,20 +57,8 @@
       "path": "Cô thắm/so sánh/so sánh.md"
     },
     {
-      "basename": "Câu điều kiện",
-      "path": "Cô thắm/Câu điều kiện/Câu điều kiện.md"
-    },
-    {
       "basename": "Sự hòa hợp S - V và câu hỏi which, what",
       "path": "Cô thắm/Sự hòa hợp S - V và câu hỏi which, what.md"
-    },
-    {
-      "basename": "Tính từ",
-      "path": "Cô thắm/tính từ/Tính từ.md"
-    },
-    {
-      "basename": "Tính từ phân từ",
-      "path": "Cô thắm/tính từ/Tính từ phân từ.md"
     },
     {
       "basename": "đáp án",
@@ -69,20 +81,12 @@
       "path": "Cô thắm/vocab.md"
     },
     {
-      "basename": "Mẹo về dịch",
-      "path": "Cô thắm/Mẹo/Mẹo về dịch.md"
-    },
-    {
       "basename": "cụm danh từ đáng nhớ",
       "path": "Cô thắm/cụm danh từ đáng nhớ.md"
     },
     {
       "basename": "Consonants (phụ âm)",
       "path": "Cô thắm/Consonants (phụ âm).md"
-    },
-    {
-      "basename": "Động tử bị động",
-      "path": "Cô thắm/Động từ/Động tử bị động.md"
     },
     {
       "basename": "Danh từ, cụm danh từ",
@@ -195,10 +199,6 @@
     {
       "basename": "Feature map",
       "path": "Terminology/Feature map.md"
-    },
-    {
-      "basename": "Kernel",
-      "path": "Terminology/Kernel.md"
     }
   ],
   "omittedPaths": [],
