@@ -12,3 +12,7 @@
 ![[Pasted image 20250305155931.png]]
 -> đại từ quan hệ 
 
+## mẹo 
+- nếu ở ngay liền trước đại từ quan hệ có dấu phẩy thì ko thay được that
+- không cần thiết dịch những mệnh đề quan hệ - chỉ dịch những phần đứng sau động từ khiếm khuyết ![[Pasted image 20250305165014.png]]
+- 
