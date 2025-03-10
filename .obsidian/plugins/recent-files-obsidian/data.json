@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Part 2 (chiến thuật)",
+      "path": "Cô thắm/Nghe/Part 2 (chiến thuật).md"
+    },
+    {
+      "basename": "Part 1 (nghe)",
+      "path": "Cô thắm/Nghe/Part 1 (nghe).md"
+    },
+    {
       "basename": "Part 5",
       "path": "Từ vựng/Từ vựng trong ets 2022/Test 1/Part 5.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Part 1",
       "path": "Cô thắm/Nghe/bài tập nghe/Part 1.md"
-    },
-    {
-      "basename": "Part 1 (nghe)",
-      "path": "Cô thắm/Nghe/Part 1 (nghe).md"
     },
     {
       "basename": "Động từ",
@@ -195,10 +199,6 @@
     {
       "basename": "Multiple regression",
       "path": "Terminology/Multiple regression.md"
-    },
-    {
-      "basename": "Insight into MLP_v4",
-      "path": "AIO notebook/Insight MLP(multi-layer perceptron)/Insight into MLP_v4.pdf"
     }
   ],
   "omittedPaths": [],
