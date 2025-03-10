@@ -4,5 +4,5 @@
 4. ![[Pasted image 20250306200255.png]]: gần 
 5. ![[Pasted image 20250306200343.png]]
 6. ![[Pasted image 20250306201512.png]]
-7. The cart: xe đẩy
-8. material: tài liệu
+7. The cart (n): xe đẩy
+8. material(n): tài liệu
