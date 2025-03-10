@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Part 5",
+      "path": "Từ vựng/Từ vựng trong ets 2022/Test 1/Part 5.md"
+    },
+    {
+      "basename": "vocab",
+      "path": "Cô thắm/vocab.md"
+    },
+    {
+      "basename": "Part 1",
+      "path": "Cô thắm/Nghe/bài tập nghe/Part 1.md"
+    },
+    {
+      "basename": "Part 1 (nghe)",
+      "path": "Cô thắm/Nghe/Part 1 (nghe).md"
+    },
+    {
+      "basename": "Động từ",
+      "path": "Cô thắm/Động từ/Động từ.md"
+    },
+    {
       "basename": "Giới từ",
       "path": "Cô thắm/Giới từ.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "Liên từ",
       "path": "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ.md"
-    },
-    {
-      "basename": "Động từ",
-      "path": "Cô thắm/Động từ/Động từ.md"
     },
     {
       "basename": "Động tử bị động",
@@ -57,10 +73,6 @@
       "path": "Cô thắm/Câu điều kiện/Câu điều kiện.md"
     },
     {
-      "basename": "Part 5",
-      "path": "Từ vựng/Từ vựng trong ets 2022/Test 1/Part 5.md"
-    },
-    {
       "basename": "test1",
       "path": "test1.md"
     },
@@ -89,10 +101,6 @@
       "path": "Cô thắm/Sự hòa hợp S - V và câu hỏi which, what.md"
     },
     {
-      "basename": "vocab",
-      "path": "Cô thắm/vocab.md"
-    },
-    {
       "basename": "Bài tập",
       "path": "Bài tập.md"
     },
@@ -110,7 +118,7 @@
     },
     {
       "basename": "Buổi 14",
-      "path": "Cô thắm/bài tập nghe/Buổi 14.md"
+      "path": "Cô thắm/Nghe/bài tập nghe/Buổi 14.md"
     },
     {
       "basename": "150tuvungcoban",
@@ -191,14 +199,6 @@
     {
       "basename": "Insight into MLP_v4",
       "path": "AIO notebook/Insight MLP(multi-layer perceptron)/Insight into MLP_v4.pdf"
-    },
-    {
-      "basename": "Thư viện vẽ đồ thị",
-      "path": "base-knowledge/Thư viện vẽ đồ thị.md"
-    },
-    {
-      "basename": "What diff between our famous loss function",
-      "path": "base-knowledge/What diff between our famous loss function.md"
     }
   ],
   "omittedPaths": [],
