@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "598ab4c663a5ecc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cô thắm/liên từ - trạng từ/Liên từ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Liên từ"
-            }
-          },
-          {
             "id": "89454e8fa7429bf6",
             "type": "leaf",
             "state": {
@@ -37,6 +23,34 @@
           },
           {
             "id": "d9e270c0aa7acb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bài tập.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bài tập"
+            }
+          },
+          {
+            "id": "3d0d05510c1679b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cô thắm/liên từ - trạng từ/Trạng từ/Đại từ - trạng từ - câu hỏi giao tiếp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Đại từ - trạng từ - câu hỏi giao tiếp"
+            }
+          },
+          {
+            "id": "fa15ce87e3c1ee8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,16 +83,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cô thắm/Mệnh đề quan hệ.md",
+                "file": "Cô thắm/Giới từ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mệnh đề quan hệ"
+              "title": "Giới từ"
+            }
+          },
+          {
+            "id": "9e4c839b2da3d42b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mẹo/Mẹo về những dạng rút gọn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mẹo về những dạng rút gọn"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -238,8 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,54 +286,54 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d9e270c0aa7acb40",
+  "active": "43b7adae6e9bcc51",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20250305165014.png",
-    "Cô thắm/Danh từ/Danh từ, cụm danh từ.md",
-    "Cô thắm/Câu điều kiện/Câu điều kiện.md",
-    "Cô thắm/Mệnh đề quan hệ.md",
-    "Attachments/Pasted image 20250305163124 1.png",
-    "Attachments/Pasted image 20250305163124.png",
-    "Attachments/Pasted image 20250305163123 2.png",
-    "Attachments/Pasted image 20250305163123 1.png",
-    "Attachments/Pasted image 20250305163123.png",
-    "Attachments/Pasted image 20250305163119 1.png",
-    "Attachments/Pasted image 20250305163119.png",
-    "Cô thắm/liên từ - trạng từ/Liên từ câu hỏi đề nghị.md",
-    "Cô thắm/tính từ/Tính từ.md",
-    "Attachments/Pasted image 20250305155931.png",
-    "Attachments/Pasted image 20250305110409.png",
-    "Attachments/Pasted image 20250305105858.png",
-    "Cô thắm/liên từ - trạng từ/Liên từ.md",
-    "Mẹo/Mẹo về dịch.md",
-    "Cô thắm/tính từ/Tính từ phân từ.md",
-    "Cô thắm/Động từ/Động tử bị động.md",
-    "Cô thắm/liên từ - trạng từ/Liên từ + giới từ - câu hỏi lựa chọn.md",
-    "Cô thắm/liên từ - trạng từ/Đại từ - trạng từ - câu hỏi giao tiếp.md",
-    "Cô thắm/liên từ - trạng từ/trạng từ.md",
-    "Từ vựng 1.md",
-    "Bài tập.md",
-    "ETS-2022/ETS 2022 - CÓ ĐÁP ÁN-20250305T024441Z-001/ETS 2022 - CÓ ĐÁP ÁN/Audio/TEST 10/T10 - P2.mp3",
-    "ETS-2022/ETS 2022 - CÓ ĐÁP ÁN-20250305T024441Z-001/ETS 2022 - CÓ ĐÁP ÁN/Audio/TEST 10/T10 - P1.mp3",
-    "ETS-2022/ETS 2022 - CÓ ĐÁP ÁN-20250305T024441Z-001/ETS 2022 - CÓ ĐÁP ÁN/Audio/TEST 09/T9 - P2.mp3",
-    "ETS-2022/ETS 2022 - CÓ ĐÁP ÁN-20250305T024441Z-001/ETS 2022 - CÓ ĐÁP ÁN/Audio/TEST 09/T9 - P1.mp3",
-    "ETS-2022/ETS 2022 - CÓ ĐÁP ÁN-20250305T024441Z-001/ETS 2022 - CÓ ĐÁP ÁN/Audio/TEST 08/T8 - P2.mp3",
-    "ETS-2022/ETS 2022 - CÓ ĐÁP ÁN-20250305T024441Z-001/ETS 2022 - CÓ ĐÁP ÁN/Audio/TEST 08/T8 - P1.mp3",
-    "ETS-2022/ETS 2022 - CÓ ĐÁP ÁN-20250305T024441Z-001/ETS 2022 - CÓ ĐÁP ÁN/Audio/TEST 07/T7 - P2.mp3",
-    "ETS-2022/ETS 2022 - CÓ ĐÁP ÁN-20250305T024441Z-001/ETS 2022 - CÓ ĐÁP ÁN/Audio/TEST 07/T7 - P1.mp3",
-    "ETS-2022/ETS 2022 - CÓ ĐÁP ÁN-20250305T024441Z-001/ETS 2022 - CÓ ĐÁP ÁN/Audio/TEST 05/T5 - P2.mp3",
-    "ETS-2022/ETS 2022 - CÓ ĐÁP ÁN-20250305T024441Z-001/ETS 2022 - CÓ ĐÁP ÁN/Audio/TEST 05/T5 - P1.mp3",
-    "Cô thắm/so sánh/so sánh.md",
-    "Cô thắm/Sự hòa hợp S - V và câu hỏi which, what.md",
-    "Cô mai phương/Nghe/Thi online photos of people/đáp án.md",
-    "Cô mai phương/Nghe/Bài tập điền từ.md",
-    "Cô mai phương/Nghe/Photos of people.md",
-    "Cô thắm/bài tập nghe/Buổi 14.md",
-    "Cô thắm/vocab.md",
-    "Cô thắm/cụm danh từ đáng nhớ.md",
-    "Cô thắm/Consonants (phụ âm).md",
+    "ETS-2022/ĐỀ ES 2022/LISTENING/AUDIO/TEST 8.mp3",
+    "ETS-2022/ĐỀ ES 2022/LISTENING/AUDIO/TEST 7.mp3",
+    "ETS-2022/ĐỀ ES 2022/LISTENING/AUDIO/TEST 6.mp3",
+    "ETS-2022/ĐỀ ES 2022/LISTENING/AUDIO/TEST 5.mp3",
+    "ETS-2022/ĐỀ ES 2022/LISTENING/AUDIO/TEST 4.mp3",
+    "ETS-2022/ĐỀ ES 2022/LISTENING/AUDIO/TEST 3.mp3",
+    "ETS-2022/ĐỀ ES 2022/LISTENING/AUDIO/TEST 2.mp3",
+    "ETS-2022/ĐỀ ES 2022/LISTENING/AUDIO/TEST 1.mp3",
+    "ETS-2022/ĐỀ ES 2022/LISTENING/AUDIO/Test10.mp3",
+    "ETS-2022/ĐỀ ES 2022/LISTENING/AUDIO/Test09.mp3",
+    "ETS-2022/ĐỀ ES 2022/LISTENING/AUDIO/AUDIO/Test10.mp3",
+    "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ câu hỏi đề nghị.md",
+    "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ.md",
     "Cô thắm/Động từ/Động từ.md",
-    "Mindmap thi toiec/Mindmap.md",
+    "Cô thắm/Động từ/Động tử bị động.md",
+    "Cô thắm/liên từ - trạng từ/Trạng từ/Đại từ.md",
+    "Cô thắm/tính từ/Tính từ.md",
+    "Cô thắm/tính từ/Tính từ phân từ.md",
+    "Cô thắm/liên từ - trạng từ/Trạng từ/trạng từ.md",
+    "Mẹo/Mẹo về dịch.md",
+    "Cô thắm/Giới từ.md",
+    "Cô thắm/Mệnh đề quan hệ.md",
+    "Cô thắm/so sánh/so sánh.md",
+    "Mẹo/Mẹo về những dạng rút gọn.md",
+    "Attachments/Pasted image 20250310144959.png",
+    "Attachments/Pasted image 20250310144103.png",
+    "Cô thắm/Câu điều kiện/Câu điều kiện.md",
+    "Từ vựng/Từ vựng trong ets 2022/Test 1/Part 5.md",
+    "test1.md",
+    "Attachments/Pasted image 20250310143108.png",
+    "Cô thắm/Danh từ/Danh từ, cụm danh từ.md",
+    "Cô thắm/cụm danh từ đáng nhớ.md",
+    "Attachments/Pasted image 20250306201512.png",
+    "Attachments/Pasted image 20250306200343.png",
+    "Attachments/Pasted image 20250306200255.png",
+    "Attachments/Pasted image 20250306200236.png",
+    "Attachments/Pasted image 20250306194902.png",
+    "Attachments/Pasted image 20250306194606.png",
+    "Attachments/Pasted image 20250306191457.png",
+    "Từ vựng 1.md",
+    "Từ vựng/Untitled.md",
+    "Từ vựng/Từ vựng trong ets 2022/Untitled.md",
+    "Cô thắm/Consonants (phụ âm).md",
+    "Cô thắm/Vowels (nguyên âm).md",
+    "Cô thắm/Sự hòa hợp S - V và câu hỏi which, what.md",
+    "Cô thắm/vocab.md",
     "Code model/Knowledge/Optimizers/Adam graph.canvas",
     "TrashNote/Untitled 1.canvas",
     "TrashNote/Untitled.canvas",
