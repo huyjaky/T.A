@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Part 2",
+      "path": "Cô thắm/Nghe/bài tập nghe/Part 2.md"
+    },
+    {
       "basename": "Part 2 (chiến thuật)",
       "path": "Cô thắm/Nghe/Part 2 (chiến thuật).md"
     },
     {
-      "basename": "Part 1 (nghe)",
-      "path": "Cô thắm/Nghe/Part 1 (nghe).md"
+      "basename": "Part 1",
+      "path": "Cô thắm/Nghe/bài tập nghe/Part 1.md"
     },
     {
       "basename": "Part 5",
       "path": "Từ vựng/Từ vựng trong ets 2022/Test 1/Part 5.md"
     },
     {
-      "basename": "vocab",
-      "path": "Cô thắm/vocab.md"
+      "basename": "Part 1 (nghe)",
+      "path": "Cô thắm/Nghe/Part 1 (nghe).md"
     },
     {
-      "basename": "Part 1",
-      "path": "Cô thắm/Nghe/bài tập nghe/Part 1.md"
+      "basename": "vocab",
+      "path": "Cô thắm/vocab.md"
     },
     {
       "basename": "Động từ",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2024-11-05 13.57.30.excalidraw",
       "path": "TrashNote/Drawing 2024-11-05 13.57.30.excalidraw.md"
-    },
-    {
-      "basename": "Multiple regression",
-      "path": "Terminology/Multiple regression.md"
     }
   ],
   "omittedPaths": [],
