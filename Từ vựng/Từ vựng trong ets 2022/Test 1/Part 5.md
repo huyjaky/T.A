@@ -6,3 +6,4 @@
 6. ![[Pasted image 20250306201512.png]]
 7. The cart (n): xe đẩy
 8. material(n): tài liệu
+9. refund = reimburse (v): hoàn tiền
