@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Mệnh đề quan hệ",
-      "path": "Cô thắm/Mệnh đề quan hệ.md"
+      "basename": "Wh-question",
+      "path": "Cô thắm/Nghe/Wh-question.md"
+    },
+    {
+      "basename": "Part 2 (chiến thuật)",
+      "path": "Cô thắm/Nghe/Part 2 (chiến thuật).md"
     },
     {
       "basename": "Part 2",
       "path": "Cô thắm/Nghe/bài tập nghe/Part 2.md"
     },
     {
-      "basename": "Part 2 (chiến thuật)",
-      "path": "Cô thắm/Nghe/Part 2 (chiến thuật).md"
+      "basename": "Mệnh đề quan hệ",
+      "path": "Cô thắm/Mệnh đề quan hệ.md"
     },
     {
       "basename": "Part 1",
@@ -195,10 +199,6 @@
     {
       "basename": "Multilayer-perceptron",
       "path": "Terminology/Multilayer-perceptron.md"
-    },
-    {
-      "basename": "Drawing 2024-11-05 13.57.30.excalidraw",
-      "path": "TrashNote/Drawing 2024-11-05 13.57.30.excalidraw.md"
     }
   ],
   "omittedPaths": [],
