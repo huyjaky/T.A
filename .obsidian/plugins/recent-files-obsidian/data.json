@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "part 2.2",
+      "path": "Cô thắm/Nghe/bài tập nghe/part 2.2.md"
+    },
+    {
+      "basename": "Part 2.1",
+      "path": "Cô thắm/Nghe/bài tập nghe/Part 2.1.md"
+    },
+    {
       "basename": "Wh-question",
       "path": "Cô thắm/Nghe/Wh-question.md"
     },
     {
       "basename": "Part 2 (chiến thuật)",
       "path": "Cô thắm/Nghe/Part 2 (chiến thuật).md"
-    },
-    {
-      "basename": "Part 2.1",
-      "path": "Cô thắm/Nghe/bài tập nghe/Part 2.1.md"
     },
     {
       "basename": "Part 2",
@@ -195,10 +199,6 @@
     {
       "basename": "From Optimization to Linear Regression _ v3",
       "path": "AIO notebook/From Optimization to Linear Regression/From Optimization to Linear Regression _ v3.pdf"
-    },
-    {
-      "basename": "MLP (multi-layer perceptron",
-      "path": "base-knowledge/Advance knowledge/CNN/MLP (multi-layer perceptron.md"
     }
   ],
   "omittedPaths": [],
