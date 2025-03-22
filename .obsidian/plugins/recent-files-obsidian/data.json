@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Part 5",
-      "path": "Từ vựng/Từ vựng trong ets 2022/Test 1/Part 5.md"
+      "basename": "Wh-question",
+      "path": "Cô thắm/Nghe/Wh-question.md"
     },
     {
       "basename": "Part 2 (chiến thuật)",
       "path": "Cô thắm/Nghe/Part 2 (chiến thuật).md"
     },
     {
-      "basename": "Wh-question",
-      "path": "Cô thắm/Nghe/Wh-question.md"
+      "basename": "Part 2.1",
+      "path": "Cô thắm/Nghe/bài tập nghe/Part 2.1.md"
     },
     {
       "basename": "Part 2",
       "path": "Cô thắm/Nghe/bài tập nghe/Part 2.md"
+    },
+    {
+      "basename": "Part 5",
+      "path": "Từ vựng/Từ vựng trong ets 2022/Test 1/Part 5.md"
     },
     {
       "basename": "Mệnh đề quan hệ",
@@ -195,10 +199,6 @@
     {
       "basename": "MLP (multi-layer perceptron",
       "path": "base-knowledge/Advance knowledge/CNN/MLP (multi-layer perceptron.md"
-    },
-    {
-      "basename": "Multilayer-perceptron",
-      "path": "Terminology/Multilayer-perceptron.md"
     }
   ],
   "omittedPaths": [],
