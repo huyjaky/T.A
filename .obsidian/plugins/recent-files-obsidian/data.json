@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "parth 2.5",
+      "path": "Cô thắm/Nghe/bài tập nghe/parth 2.5.md"
+    },
+    {
+      "basename": "Wh-question",
+      "path": "Cô thắm/Nghe/Wh-question.md"
+    },
+    {
+      "basename": "Part 2 (chiến thuật)",
+      "path": "Cô thắm/Nghe/Part 2 (chiến thuật).md"
+    },
+    {
+      "basename": "Part 1 (nghe)",
+      "path": "Cô thắm/Nghe/Part 1 (nghe).md"
+    },
+    {
+      "basename": "Part 1",
+      "path": "Cô thắm/Nghe/bài tập nghe/Part 1.md"
+    },
+    {
+      "basename": "các lưu ý",
+      "path": "Cô thắm/Nghe/các lưu ý.md"
+    },
+    {
+      "basename": "part 2.4",
+      "path": "Cô thắm/Nghe/bài tập nghe/part 2.4.md"
+    },
+    {
       "basename": "part 2.3",
       "path": "Cô thắm/Nghe/bài tập nghe/part 2.3.md"
     },
@@ -13,14 +41,6 @@
       "path": "Cô thắm/Nghe/bài tập nghe/Part 2.1.md"
     },
     {
-      "basename": "Wh-question",
-      "path": "Cô thắm/Nghe/Wh-question.md"
-    },
-    {
-      "basename": "Part 2 (chiến thuật)",
-      "path": "Cô thắm/Nghe/Part 2 (chiến thuật).md"
-    },
-    {
       "basename": "Part 2",
       "path": "Cô thắm/Nghe/bài tập nghe/Part 2.md"
     },
@@ -31,14 +51,6 @@
     {
       "basename": "Mệnh đề quan hệ",
       "path": "Cô thắm/Mệnh đề quan hệ.md"
-    },
-    {
-      "basename": "Part 1",
-      "path": "Cô thắm/Nghe/bài tập nghe/Part 1.md"
-    },
-    {
-      "basename": "Part 1 (nghe)",
-      "path": "Cô thắm/Nghe/Part 1 (nghe).md"
     },
     {
       "basename": "vocab",
@@ -187,18 +199,6 @@
     {
       "basename": "From MLP to CNN_v6",
       "path": "AIO notebook/From MLP to CNN/From MLP to CNN_v6.pdf"
-    },
-    {
-      "basename": "[Description]-CNN-Applications",
-      "path": "AIO homework/Code/CNN/[Description]-CNN-Applications.pdf"
-    },
-    {
-      "basename": "Airflow_v3",
-      "path": "AIO notebook/AirFlow for Scheduling/Airflow_v3.pdf"
-    },
-    {
-      "basename": "CNN (convolution neural network)",
-      "path": "base-knowledge/Advance knowledge/CNN/CNN (convolution neural network).md"
     }
   ],
   "omittedPaths": [],

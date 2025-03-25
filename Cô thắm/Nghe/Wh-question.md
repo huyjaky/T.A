@@ -13,3 +13,11 @@ How soon = when
 ## How 
 ![[Pasted image 20250322110843.png]]
 
+## Which 
+![[Pasted image 20250325144207.png]]
+
+## What
+![[Pasted image 20250325150951.png]]
+![[Pasted image 20250325151015.png]]
+
+
