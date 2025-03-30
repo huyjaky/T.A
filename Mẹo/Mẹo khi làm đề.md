@@ -1,0 +1,5 @@
+- Những từ có "er" thì nhất thiết phải có "than" ![[Pasted image 20250330134335.png]]
+- After/Before có thể được coi là một giới từ ![[Pasted image 20250330141020.png]]-> vì after là một giới từ nên có thể cộng với một cụm danh từ hoặc động từ 
+- 
+- 
+- 
