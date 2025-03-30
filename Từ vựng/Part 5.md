@@ -17,3 +17,7 @@
 17. attendees(n): going somewhere 
 18. conference(n): hội nghị 
 19. accommodations(n): chổ ở
+20. ![[Pasted image 20250330164109.png]]: nộp
+21. ![[Pasted image 20250330165858.png]]
+22. ![[Pasted image 20250330165912.png]]
+23. 
