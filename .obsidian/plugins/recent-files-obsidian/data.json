@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "đề 1",
+      "path": "Giải đề/Part 5/đề 1.md"
+    },
+    {
+      "basename": "Từ vựng 1",
+      "path": "Từ vựng/Từ vựng 1.md"
+    },
+    {
+      "basename": "Đại từ",
+      "path": "Cô thắm/liên từ - trạng từ/Trạng từ/Đại từ.md"
+    },
+    {
       "basename": "Liên từ",
       "path": "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ.md"
     },
     {
       "basename": "Liên từ câu hỏi đề nghị",
       "path": "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ câu hỏi đề nghị.md"
+    },
+    {
+      "basename": "Bài tập",
+      "path": "Bài tập.md"
+    },
+    {
+      "basename": "READING",
+      "path": "ETS-2022/ĐỀ ES 2022/READING/READING.pdf"
     },
     {
       "basename": "Động tử bị động",
@@ -27,10 +47,6 @@
     {
       "basename": "Câu điều kiện",
       "path": "Cô thắm/Câu điều kiện/Câu điều kiện.md"
-    },
-    {
-      "basename": "Từ vựng 1",
-      "path": "Từ vựng/Từ vựng 1.md"
     },
     {
       "basename": "các lưu ý",
@@ -89,10 +105,6 @@
       "path": "Cô thắm/vocab.md"
     },
     {
-      "basename": "Đại từ",
-      "path": "Cô thắm/liên từ - trạng từ/Trạng từ/Đại từ.md"
-    },
-    {
       "basename": "Tính từ",
       "path": "Cô thắm/tính từ/Tính từ.md"
     },
@@ -131,10 +143,6 @@
     {
       "basename": "Sự hòa hợp S - V và câu hỏi which, what",
       "path": "Cô thắm/Sự hòa hợp S - V và câu hỏi which, what.md"
-    },
-    {
-      "basename": "Bài tập",
-      "path": "Bài tập.md"
     },
     {
       "basename": "đáp án",
@@ -191,10 +199,6 @@
     {
       "basename": "How to train CNNs_v3",
       "path": "AIO notebook/How to train CNNs/How to train CNNs_v3.pdf"
-    },
-    {
-      "basename": "From MLP to CNN_v6",
-      "path": "AIO notebook/From MLP to CNN/From MLP to CNN_v6.pdf"
     }
   ],
   "omittedPaths": [],
