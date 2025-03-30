@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mẹo/Mẹo khi làm đề.md",
+                "file": "Giải đề/Part 5/đề 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mẹo khi làm đề"
+              "title": "đề 1"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,13 +259,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a7ab52346fbbc8dd",
+  "active": "f5c1554f1686dd52",
   "lastOpenFiles": [
+    "Từ vựng/Part 5.md",
+    "Mẹo/Mẹo khi làm đề.md",
+    "Attachments/Pasted image 20250330173609.png",
+    "Giải đề/Part 5/đề 1.md",
+    "Attachments/Pasted image 20250330173127.png",
     "Attachments/Pasted image 20250330165912.png",
     "Attachments/Pasted image 20250330165858.png",
-    "Giải đề/Part 5/đề 1.md",
-    "Mẹo/Mẹo khi làm đề.md",
-    "Từ vựng/Part 5.md",
     "Attachments/Pasted image 20250330164109.png",
     "Từ vựng/Từ vựng 1.md",
     "Mẹo/Mẹo về dịch.md",
@@ -277,9 +279,6 @@
     "Attachments/Pasted image 20250330134335.png",
     "Attachments/Pasted image 20250330132730.png",
     "Attachments/Pasted image 20250330130935.png",
-    "Attachments/Pasted image 20250330125607.png",
-    "Attachments/Pasted image 20250330125548.png",
-    "Attachments/Pasted image 20250330122832.png",
     "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ.md",
     "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ câu hỏi đề nghị.md",
     "Bài tập.md",
