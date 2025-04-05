@@ -46,6 +46,7 @@ vd:
 ![[Pasted image 20250223214659.png]]
 ![[Pasted image 20250223214731.png]]
 
-prior to: trước 
+1. prior to: trước 
+2. **be known for**: nổi tiếng về (phía trên là dòng họ của nó)
 
 

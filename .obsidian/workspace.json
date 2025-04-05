@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "a7ab52346fbbc8dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Từ vựng/Part 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Part 5"
-            }
-          },
-          {
             "id": "f5c1554f1686dd52",
             "type": "leaf",
             "state": {
@@ -47,34 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Part 5"
-            }
-          },
-          {
-            "id": "954c11a1c020fb4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Liên từ"
-            }
-          },
-          {
-            "id": "e2144828dfe048d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cô thắm/Nghe/bài tập nghe/part 2.4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "part 2.4"
             }
           }
         ],
@@ -259,11 +217,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a7ab52346fbbc8dd",
+  "active": "f5c1554f1686dd52",
   "lastOpenFiles": [
+    "Cô thắm/Giới từ.md",
+    "Từ vựng/Part 5.md",
+    "Attachments/Pasted image 20250405175638.png",
+    "Cô thắm/Mệnh đề quan hệ.md",
+    "Cô thắm/liên từ - trạng từ/Trạng từ/Đại từ.md",
+    "Cô thắm/cụm danh từ đáng nhớ.md",
+    "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ.md",
     "Attachments/Pasted image 20250330175724.png",
     "Giải đề/Part 5/đề 1.md",
-    "Từ vựng/Part 5.md",
     "Từ vựng/Từ vựng 1.md",
     "Mẹo/Mẹo khi làm đề.md",
     "Attachments/Pasted image 20250330173609.png",
@@ -273,33 +237,26 @@
     "Attachments/Pasted image 20250330164109.png",
     "Mẹo/Mẹo về dịch.md",
     "Attachments/Pasted image 20250330141020.png",
-    "Cô thắm/liên từ - trạng từ/Trạng từ/Đại từ.md",
     "Mẹo/Mẹo về những dạng rút gọn.md",
     "Mindmap thi toiec/Mindmap.md",
     "Attachments/Pasted image 20250330134743.png",
     "Attachments/Pasted image 20250330134335.png",
-    "Attachments/Pasted image 20250330132730.png",
-    "Attachments/Pasted image 20250330130935.png",
-    "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ.md",
     "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ câu hỏi đề nghị.md",
     "Bài tập.md",
     "Giải đề/Part 5",
     "Giải đề",
     "ETS-2022/ĐỀ ES 2022/READING/READING.pdf",
     "Cô thắm/Động từ/Động tử bị động.md",
-    "Cô thắm/Mệnh đề quan hệ.md",
     "Cô thắm/Động từ/Động từ.md",
     "Cô thắm/Danh từ/Danh từ, cụm danh từ.md",
     "Cô thắm/Câu điều kiện/Câu điều kiện.md",
     "Cô thắm/Nghe/các lưu ý.md",
     "Cô thắm/Nghe/Wh-question.md",
-    "Cô thắm/Giới từ.md",
     "Từ vựng/test1.md",
     "Cô thắm/Nghe/bài tập nghe/parth 2.5.md",
     "Cô thắm/Nghe/Part 2 (chiến thuật).md",
     "Cô thắm/Nghe/Part 1 (nghe).md",
     "Cô thắm/Nghe/bài tập nghe/Part 1.md",
-    "Cô thắm/Nghe/bài tập nghe/part 2.4.md",
     "Cô thắm/Nghe",
     "ETS-2022/ĐỀ ES 2022/LISTENING/AUDIO/TEST 8.mp3",
     "ETS-2022/ĐỀ ES 2022/LISTENING/AUDIO/TEST 7.mp3",

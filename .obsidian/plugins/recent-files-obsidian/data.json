@@ -5,6 +5,26 @@
       "path": "Từ vựng/Part 5.md"
     },
     {
+      "basename": "Giới từ",
+      "path": "Cô thắm/Giới từ.md"
+    },
+    {
+      "basename": "Mệnh đề quan hệ",
+      "path": "Cô thắm/Mệnh đề quan hệ.md"
+    },
+    {
+      "basename": "Đại từ",
+      "path": "Cô thắm/liên từ - trạng từ/Trạng từ/Đại từ.md"
+    },
+    {
+      "basename": "cụm danh từ đáng nhớ",
+      "path": "Cô thắm/cụm danh từ đáng nhớ.md"
+    },
+    {
+      "basename": "Liên từ",
+      "path": "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ.md"
+    },
+    {
       "basename": "đề 1",
       "path": "Giải đề/Part 5/đề 1.md"
     },
@@ -21,20 +41,12 @@
       "path": "Mẹo/Mẹo về dịch.md"
     },
     {
-      "basename": "Đại từ",
-      "path": "Cô thắm/liên từ - trạng từ/Trạng từ/Đại từ.md"
-    },
-    {
       "basename": "Mẹo về những dạng rút gọn",
       "path": "Mẹo/Mẹo về những dạng rút gọn.md"
     },
     {
       "basename": "Mindmap",
       "path": "Mindmap thi toiec/Mindmap.md"
-    },
-    {
-      "basename": "Liên từ",
-      "path": "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ.md"
     },
     {
       "basename": "Liên từ câu hỏi đề nghị",
@@ -51,10 +63,6 @@
     {
       "basename": "Động tử bị động",
       "path": "Cô thắm/Động từ/Động tử bị động.md"
-    },
-    {
-      "basename": "Mệnh đề quan hệ",
-      "path": "Cô thắm/Mệnh đề quan hệ.md"
     },
     {
       "basename": "Động từ",
@@ -75,10 +83,6 @@
     {
       "basename": "Wh-question",
       "path": "Cô thắm/Nghe/Wh-question.md"
-    },
-    {
-      "basename": "Giới từ",
-      "path": "Cô thắm/Giới từ.md"
     },
     {
       "basename": "parth 2.5",
@@ -135,10 +139,6 @@
     {
       "basename": "so sánh",
       "path": "Cô thắm/so sánh/so sánh.md"
-    },
-    {
-      "basename": "cụm danh từ đáng nhớ",
-      "path": "Cô thắm/cụm danh từ đáng nhớ.md"
     },
     {
       "basename": "Consonants (phụ âm)",
