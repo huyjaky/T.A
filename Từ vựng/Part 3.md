@@ -22,3 +22,6 @@
 - brochure(n): tài liệu 
 - colleagues = coworker = partner(n): đồng nghiệp 
 - replace = substiture (v): thay thế 
+- reassurance(adj): đảm bảo 
+- issue = paper (n): tờ báo 
+- indicate(v): chỉ ra, show ra 
