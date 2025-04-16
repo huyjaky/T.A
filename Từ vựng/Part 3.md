@@ -15,4 +15,10 @@
 - fabric(n): vải vóc 
 - properly (adv): Chính xác 
 - more function = not function properly: hư hỏng 
-- 
+- automobile = car(n): xe hơi 
+- dealership(n): đại lý 
+- amusement(adj): giải trí 
+- vacation(n): kì nghĩ 
+- brochure(n): tài liệu 
+- colleagues = coworker = partner(n): đồng nghiệp 
+- replace = substiture (v): thay thế 
