@@ -11,4 +11,8 @@
 - reservation(n): sự đặt trước, chuẩn bị trước 
 - accommodations = hotel = motel (n): chỗ ở, khách sạn 
 - accommodate(v): đáp ứng 
+- facility(n): nhà máy 
+- fabric(n): vải vóc 
+- properly (adv): Chính xác 
+- more function = not function properly: hư hỏng 
 - 
