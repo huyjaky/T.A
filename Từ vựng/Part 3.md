@@ -1,0 +1,12 @@
+- Retire (v): nghỉ hưu 
+- promote(v): khuyến khích, đẩy mạnh 
+- be promoted (động từ bị động): được thăng chức 
+- arrange(v): xắp xếp
+- final(adj): kết thúc 
+- finalize = finish = complete(v): hoàn thành
+- consult = advise = counsel (v): đưa ra lời cố vấn 
+- consult (v): tham khảo (có cùng 1 nghĩa) 
+- advice (n): sự khuyên nhủ, sự nâng cao 
+- just(adv): trong thì quá khứ đơn thì được dịch là vừa mới làm gì 
+- reservation(n): sự đặt trước, chuẩn bị trước 
+- 
