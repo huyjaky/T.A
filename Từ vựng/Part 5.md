@@ -15,10 +15,14 @@
 15. revise(v): chỉnh sửa 
 16. attendees(n): going somewhere 
 17. conference(n): hội nghị 
-18. accommodations(n): chổ ở
+18. accommodations = hotel = motel(n): chổ ở
+
 19. ![[Pasted image 20250330164109.png]]: nộp
+
 20. ![[Pasted image 20250330165858.png]]
+
 21. ![[Pasted image 20250330165912.png]]
+
 22. ![[Pasted image 20250330173127.png]](adv) 
 23.  substitute = (v) replace: thay thế 
 24. establish(v): thành lập

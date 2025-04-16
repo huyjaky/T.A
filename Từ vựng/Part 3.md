@@ -9,4 +9,6 @@
 - advice (n): sự khuyên nhủ, sự nâng cao 
 - just(adv): trong thì quá khứ đơn thì được dịch là vừa mới làm gì 
 - reservation(n): sự đặt trước, chuẩn bị trước 
+- accommodations = hotel = motel (n): chỗ ở, khách sạn 
+- accommodate(v): đáp ứng 
 - 
