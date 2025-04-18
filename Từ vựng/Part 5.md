@@ -24,7 +24,7 @@
 21. ![[Pasted image 20250330165912.png]]
 
 22. ![[Pasted image 20250330173127.png]](adv) 
-23.  substitute = (v) replace: thay thế 
+23.  substitute =replace (v) : thay thế 
 24. establish(v): thành lập
 25. regard(giới từ): về cái gì/ liên quan đến cái gì
 26. ![[Pasted image 20250330175724.png]]
