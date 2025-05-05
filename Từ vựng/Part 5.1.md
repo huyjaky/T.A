@@ -14,4 +14,9 @@
 14. be willing to V_0: sẵn lòng làm gì 
 15. concern (n): lo lắng, quan ngại 
 16. overdue (v): quá hạn 
-17. checkup (v): kiểm tra sức khỏe 
+17. checkup (v): kiểm tra sức khỏe  
+18. renovated (v): tân trang
+19. street = road = lane = way = highway = avenue (n): con đường 
+20. intersection (n): ngã tư 
+21. additional = extra = supplementary (adj): thêm, bổ sung
+22. encourage (v): khuyến khích 
