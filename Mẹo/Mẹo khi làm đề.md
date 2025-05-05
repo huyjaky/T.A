@@ -1,4 +1,5 @@
 - Những từ có "er" thì nhất thiết phải có "than" ![[Pasted image 20250330134335.png]]
 - After/Before có thể được coi là một giới từ ![[Pasted image 20250330141020.png]]-> vì after là một giới từ nên có thể cộng với một cụm danh từ hoặc V-ing
 - danh từ đếm được số ít không thể đứng một mình trong cụm danh từ ![[Pasted image 20250330173609.png]] ở đây ta có thể thấy menu là danh từ đếm được số ít và thiếu danh từ chính đó là substitutions
+- câu mệnh lệnh thì động từ đứng đầu câu ![[Pasted image 20250505202403.png]]-> ở đây là động từ call 
 - 
