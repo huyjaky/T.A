@@ -9,4 +9,5 @@
 9. permanent (adj): lâu dài 
 10. former (n): cũ, cựu (former student = cựu sinh viên)
 11. coordinator (n): điều phối viên 
-12. 
+12. dental (adj): liên quan đến răng hàm 
+13. cosmetic (): 
