@@ -5,6 +5,54 @@
       "path": "Cô thắm/Giới từ.md"
     },
     {
+      "basename": "Danh từ, cụm danh từ",
+      "path": "Cô thắm/Danh từ/Danh từ, cụm danh từ.md"
+    },
+    {
+      "basename": "Mẹo khi làm đề",
+      "path": "Mẹo/Mẹo khi làm đề.md"
+    },
+    {
+      "basename": "Part 6",
+      "path": "Từ vựng/Part 6.md"
+    },
+    {
+      "basename": "Mẹo về nghe",
+      "path": "Mẹo/Mẹo về nghe.md"
+    },
+    {
+      "basename": "Mẹo áp dụng chỉ cho part đó thôi",
+      "path": "Mẹo/Mẹo áp dụng chỉ cho part đó thôi.md"
+    },
+    {
+      "basename": "Mindmap",
+      "path": "Mindmap thi toiec/Mindmap.md"
+    },
+    {
+      "basename": "đề 1",
+      "path": "Giải đề/Part 5/đề 1.md"
+    },
+    {
+      "basename": "Mẹo về những dạng rút gọn",
+      "path": "Mẹo/Mẹo về những dạng rút gọn.md"
+    },
+    {
+      "basename": "Part 5.1",
+      "path": "Từ vựng/Part 5.1.md"
+    },
+    {
+      "basename": "Sự hòa hợp S - V và câu hỏi which, what",
+      "path": "Cô thắm/Sự hòa hợp S - V và câu hỏi which, what.md"
+    },
+    {
+      "basename": "Part 5",
+      "path": "Từ vựng/Part 5.md"
+    },
+    {
+      "basename": "Part 3",
+      "path": "Từ vựng/Part 3.md"
+    },
+    {
       "basename": "Đại từ",
       "path": "Cô thắm/liên từ - trạng từ/Trạng từ/Đại từ.md"
     },
@@ -17,28 +65,12 @@
       "path": "Cô thắm/Mệnh đề quan hệ.md"
     },
     {
-      "basename": "Part 5.1",
-      "path": "Từ vựng/Part 5.1.md"
-    },
-    {
-      "basename": "Mẹo về nghe",
-      "path": "Mẹo/Mẹo về nghe.md"
-    },
-    {
-      "basename": "Mẹo khi làm đề",
-      "path": "Mẹo/Mẹo khi làm đề.md"
-    },
-    {
       "basename": "Consonants (phụ âm)",
       "path": "Cô thắm/Consonants (phụ âm).md"
     },
     {
       "basename": "Liên từ",
       "path": "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ.md"
-    },
-    {
-      "basename": "Mẹo về những dạng rút gọn",
-      "path": "Mẹo/Mẹo về những dạng rút gọn.md"
     },
     {
       "basename": "Tính từ phân từ",
@@ -49,20 +81,8 @@
       "path": "Cô thắm/tính từ/Tính từ.md"
     },
     {
-      "basename": "Part 5",
-      "path": "Từ vựng/Part 5.md"
-    },
-    {
-      "basename": "Part 3",
-      "path": "Từ vựng/Part 3.md"
-    },
-    {
       "basename": "cụm danh từ đáng nhớ",
       "path": "Cô thắm/cụm danh từ đáng nhớ.md"
-    },
-    {
-      "basename": "Sự hòa hợp S - V và câu hỏi which, what",
-      "path": "Cô thắm/Sự hòa hợp S - V và câu hỏi which, what.md"
     },
     {
       "basename": "Wh-question",
@@ -109,14 +129,6 @@
       "path": "Attachments/Pasted image 20250407150351.png"
     },
     {
-      "basename": "đề 1",
-      "path": "Giải đề/Part 5/đề 1.md"
-    },
-    {
-      "basename": "Mindmap",
-      "path": "Mindmap thi toiec/Mindmap.md"
-    },
-    {
       "basename": "Bài tập",
       "path": "Bài tập.md"
     },
@@ -131,10 +143,6 @@
     {
       "basename": "Động từ",
       "path": "Cô thắm/Động từ/Động từ.md"
-    },
-    {
-      "basename": "Danh từ, cụm danh từ",
-      "path": "Cô thắm/Danh từ/Danh từ, cụm danh từ.md"
     },
     {
       "basename": "Câu điều kiện",
@@ -191,14 +199,6 @@
     {
       "basename": "150tuvungcoban",
       "path": "Cô mai phương/Từ vựng/150tuvungcoban.pdf"
-    },
-    {
-      "basename": "Pasted image 20250222221414",
-      "path": "Attachments/Pasted image 20250222221414.png"
-    },
-    {
-      "basename": "Pasted image 20250222215922",
-      "path": "Attachments/Pasted image 20250222215922.png"
     }
   ],
   "omittedPaths": [],

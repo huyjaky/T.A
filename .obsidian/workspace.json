@@ -4,67 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "05138f998c2a895e",
+        "id": "5b43db27366ae2e2",
         "type": "tabs",
         "children": [
           {
-            "id": "89454e8fa7429bf6",
+            "id": "76292c52ac378d58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cô thắm/so sánh/so sánh.md",
+                "file": "Mẹo/Mẹo khi làm đề.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "so sánh"
+              "title": "Mẹo khi làm đề"
             }
           },
           {
-            "id": "f5c1554f1686dd52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Từ vựng/Part 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Part 3"
-            }
-          },
-          {
-            "id": "e3bee6b93895153e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Từ vựng/Part 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Part 3"
-            }
-          },
-          {
-            "id": "866bb0e9cb911d66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cô thắm/tính từ/Tính từ phân từ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tính từ phân từ"
-            }
-          },
-          {
-            "id": "d6e4572ea5fd859f",
+            "id": "9c2ed6ddf2db1d93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,91 +36,21 @@
             }
           },
           {
-            "id": "a0b5e9fb30bf1b53",
+            "id": "693af6cfc9d4b6e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cô thắm/tính từ/Tính từ phân từ.md",
+                "file": "Từ vựng/Part 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tính từ phân từ"
-            }
-          },
-          {
-            "id": "cf10d48c7ea0381d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Liên từ"
-            }
-          },
-          {
-            "id": "7901c8568f4581ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cô thắm/Giới từ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Giới từ"
-            }
-          },
-          {
-            "id": "3b7e5c6a8310129b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Từ vựng/Part 5.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Part 5.1"
-            }
-          },
-          {
-            "id": "91c33c9cefa64f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Từ vựng/Part 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Part 3"
-            }
-          },
-          {
-            "id": "b87f6524461c4a1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Từ vựng/Part 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Part 5"
+              "title": "Part 6"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -343,35 +231,35 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7901c8568f4581ad",
+  "active": "9c2ed6ddf2db1d93",
   "lastOpenFiles": [
+    "Cô thắm/Danh từ/Danh từ, cụm danh từ.md",
+    "Mẹo/Mẹo khi làm đề.md",
+    "Từ vựng/Part 6.md",
+    "Mẹo/Mẹo về nghe.md",
+    "Mẹo/Mẹo áp dụng chỉ cho part đó thôi.md",
+    "Mindmap thi toiec/Mindmap.md",
+    "Giải đề/Part 5/đề 1.md",
+    "Mẹo/Mẹo về những dạng rút gọn.md",
+    "Từ vựng/Part 5.1.md",
+    "Cô thắm/Sự hòa hợp S - V và câu hỏi which, what.md",
+    "Từ vựng/Part 5.md",
+    "Từ vựng/Part 3.md",
+    "Cô thắm/Giới từ.md",
     "Cô thắm/liên từ - trạng từ/Trạng từ/Đại từ.md",
     "Cô thắm/so sánh/so sánh.md",
     "Cô thắm/Mệnh đề quan hệ.md",
-    "Từ vựng/Part 5.1.md",
-    "Mẹo/Mẹo về nghe.md",
-    "Mẹo/Mẹo khi làm đề.md",
     "Cô thắm/Consonants (phụ âm).md",
     "Cô thắm/liên từ - trạng từ/Liên từ/Liên từ.md",
     "Attachments/Pasted image 20250505202403.png",
-    "Mẹo/Mẹo về những dạng rút gọn.md",
     "Cô thắm/tính từ/Tính từ phân từ.md",
     "Cô thắm/tính từ/Tính từ.md",
-    "Cô thắm/Giới từ.md",
-    "Từ vựng/Part 5.md",
-    "Từ vựng/Part 3.md",
     "Cô thắm/cụm danh từ đáng nhớ.md",
-    "Cô thắm/Sự hòa hợp S - V và câu hỏi which, what.md",
     "Cô thắm/Nghe/Wh-question.md",
     "Cô thắm/Nghe/Câu hỏi lựa chọn đề nghị.md",
     "Cô thắm/Vowels (nguyên âm).md",
     "Từ vựng/Từ vựng 1.md",
     "Cô thắm/Nghe/bài tập nghe/part 3.1.md",
-    "Cô thắm/Nghe/các lưu ý.md",
-    "Cô thắm/Nghe/Các part nghe/Part 2 (chiến thuật).md",
-    "Cô thắm/Nghe/Các part nghe/Part 1 (nghe).md",
-    "Cô thắm/Nghe/Các part nghe/Part 3.md",
-    "Cô thắm/Nghe/bài tập nghe/parth 2.5.md",
     "Attachments/Pasted image 20250416183306.png",
     "Cô thắm/Nghe/Các part nghe",
     "Attachments/Pasted image 20250416182037.png",
